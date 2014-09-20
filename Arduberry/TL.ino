@@ -6,15 +6,16 @@
  */
 
 /* Use compiler directives to control the sequence */
+#define UK 1
+#define US 2
 
 // RED, RED+AMBER, GREEN, AMBER RED ...
-#define UK
-#undef US
+#define COUNTRY UK
 
 // We're going to skip RED+AMBER
 // RED, GREEN, AMBER, RED ...
-// #define US
-// #undef UK
+//#undef COUNTRY
+//#define COUNTRY US
 
 int redLED = 9;
 int yellLED = 8;
@@ -33,7 +34,7 @@ void loop() {
   digitalWrite(redLED, HIGH);
   delay(1500);
 
-#ifdef UK
+#if COUNTRY == UK
   digitalWrite(yellLED, HIGH);
   delay(750);
 #endif
@@ -48,4 +49,10 @@ void loop() {
   digitalWrite(yellLED, LOW);
 
 }
+
+
+
+
+
+
 

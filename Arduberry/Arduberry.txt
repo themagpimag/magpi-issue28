@@ -1,14 +1,13 @@
-Before I start I'll give you two crucial definitions; 1) microcontroller - an autonomous, single processor computer system that doesn't have an operating system, has general purpose I/O (GPIO), programmable memory (flash & RAM) and some read-only memory it will normally run a single custom made dedicated program for a single purpose 2) microcomputer - a single or multiple processor system that runs a operating system. It may have external GPIO, it usually has a keyboard and screen. It will normally run a multi-programming, multi-tasking system and a variety of general purpose application programs and some locally written programs. The crucial difference is that a microcomputer appears to be running more than one task at a time, a microcontroller is running one task only. 
+Before I start I'll give you two crucial definitions; 1) micro-controller - an autonomous, single processor computer system that doesn't have an operating system, has general purpose I/O (GPIO), programmable memory (flash & RAM) and some read-only memory it will normally run a single custom made dedicated program for a single purpose 2) micro computer - a single or multiple processor system that runs a operating system. It may have external GPIO, it usually has a keyboard and screen. It will normally run a multi-programming, multi-tasking system and a variety of general purpose application programs and some locally written programs. The crucial difference is that a micro computer appears to be running more than one task at a time, a micro-controller is running one task only. 
 
-Since its introduction in 2005 the Arduino has become a very popular microcontroller used by hobbyists. It's cheap, it's easy to program, it's versatile and well supported. The single task application program running on an Arduino is typically called a "sketch".
+Since its introduction in 2005 the Arduino has become a very popular micro-controller used by hobbyists. It's cheap, it's easy to program, it's versatile and well supported. The single task application program running on an Arduino is typically called a "sketch". Arduino has a standard layout of GPIO pins so there's a massive collection of add-on hardware available. The additional hardware that fits an Arduino is typically called a "shield".
 
 <<<INSERT Arduino_Uno.jpg HERE >>>
 
-Compare that with the Raspberry Pi which is a very popular microcomputer used for education, by hobbyists and a whole variety of other folk for a multitude of tasks. They're from the same stable, built by their developers for similar reasons. 
+Compare that with the Raspberry Pi which is a very popular micro computer used for education, by hobbyists and a whole variety of other folk for a multitude of tasks. They're from the same stable, built by their developers for similar reasons. 
 
 The Raspberry Pi and the Arduino may be suited to different projects but they work well together. It's quite common for the Raspberry Pi with the arduino development IDE to be used to develop sketches that can be uploaded to an Arduino. The starting point is 
-sudo apt-get install arduino 
-then when that is complete connect your Arduino with the USB-A to USB-B wire, start the GUI and write your first application.
+sudo apt-get install arduino then when that is complete connect your Arduino with the USB-A to USB-B wire, start the GUI and write your first application.
 
 Here's a variation on the normal blink program that will light four LEDs in sequence.
 
@@ -46,7 +45,7 @@ From the top it looks like an Arduino Uno, there's the standard layout of socket
 
 <<< INSERT Arduberry_BOTTOM.jpg HERE >>>
 
-From the bottom you see that there's a standard 26-pin GPIO connector and the heart of the Arduino, the Atmel Atmega328P chip down there. The Arduberry will sit on a Raspberry Pi model B or model B+. When it's mounted the Arduberry gets connections to the Raspberry Pi 5V, GND, TX & RX pins. So you MUST shutdown your Raspberry Pi and pull the power before mounting an Arduberry on the GPIO pins. With a Raspberry Pi model B+ you MUST ensure that just the first 26 pins are connected and are lined up correctly. Failure to power down or line up the pins could destroy either your Raspberry Pi or your Arduberry or both.
+From the bottom you see that there's a standard 26-pin GPIO connector and the heart of the Arduino, the Atmel Atmega328P chip down there. The Arduberry will sit on a Raspberry Pi model B or model B+. When it's mounted the Arduberry gets connections to the Raspberry Pi 5V, 3V3, GND, UART TX & RX, SPI SCLK, MOSI, MISO & CE0, I²C SDA & SCL pins. So you MUST shutdown your Raspberry Pi and pull the power before mounting an Arduberry on the GPIO pins. With a Raspberry Pi model B+ you MUST ensure that just the first 26 pins are connected and are lined up correctly. Failure to power down or line up the pins could destroy either your Raspberry Pi or your Arduberry or both.
 
 <<< INSERT Arduberry_Pi.jpg HERE >>>
 
@@ -65,7 +64,7 @@ If your Raspberry Pi isn't set-up to use the GUI automatically, you'll need to l
 
 There's a slight quirk with the IDE when it comes to uploading the sketch. With a regular Arduino Uno connected, using a USB connection, we'd click the "upload" icon. With the Arduberry that doesn't work and generates an obscure error message; "avrdude: stk500_recv(): programmer is not responding". To upload the sketch we need to ensure we're using the right programmer options (Tools --> Programmer --> Raspberry Pi GPIO) then use the CTRL+SHIFT+U keys to make it so.
 
-If we swap the LED on pin 9 for a red LED, on pin 8 for a yellow LED and pin 7 for a green LED this sketch will run the familiar sequence of traffic lights. The Arduino programming language is a hybrid between C and C++ so you can use compiler directives. In this sketch if we change it to "undef" UK and "define" US it will change to the United States sequence (from red straight to green, skipping red & amber). Compiler directives are useful for debugging. You can define code that will only be built into the sketch when a true value is defined for a DEBUG compiler variable. I use that to litter my code with Serial.print() and Serial.println() commands.
+If we swap the LED on pin 9 for a red LED, on pin 8 for a yellow LED and pin 7 for a green LED this sketch will run the familiar sequence of traffic lights. The Arduino programming language is a hybrid between C and C++ so you can use compiler directives. In this sketch if we change it to "undef" UK and "define" US it will change to the United States sequence (from red straight to green, skipping red & amber). Compiler directives are useful for debugging. You can define code that will only be built into the sketch when a true value or number greater than zero value is defined for a DEBUG compiler variable. I use that to litter my code with Serial.print() and Serial.println() commands. When the sketch works update it to #define DEBUG 0 and the debugging code won't be built into the final version. 
 
 /* TL.ino 
   Traffic lights on the Arduino
@@ -73,31 +72,35 @@ If we swap the LED on pin 9 for a red LED, on pin 8 for a yellow LED and pin 7 f
  */
 
 /* Use compiler directives to control the sequence */
+#define UK 1
+#define US 2
 
 // RED, RED+AMBER, GREEN, AMBER RED ...
-#define UK
-#undef US
+#define COUNTRY UK
 
 // We're going to skip RED+AMBER
 // RED, GREEN, AMBER, RED ...
-// #define US
-// #undef UK
+//#undef COUNTRY
+//#define COUNTRY US
 
 int redLED = 9;
 int yellLED = 8;
 int grnLED = 7;
 
 void setup() {
+
   pinMode(redLED, OUTPUT);
   pinMode(yellLED, OUTPUT);
   pinMode(grnLED, OUTPUT);
+
 }
 
 void loop() {
+
   digitalWrite(redLED, HIGH);
   delay(1500);
 
-#ifdef UK
+#if COUNTRY == UK
   digitalWrite(yellLED, HIGH);
   delay(750);
 #endif
@@ -110,7 +113,9 @@ void loop() {
   digitalWrite(yellLED, HIGH);
   delay(750);
   digitalWrite(yellLED, LOW);
+
 }
+
 
 One thing I found straight away with the Arduberry is that while the Raspberry Pi is powered up (even if Raspbian has been shut down with a sudo shutdown -h command) the Arduberry will continue to run. So I wrote a null sketch I could load to, effectively, leave the Arduberry running dormant. 
 
@@ -136,3 +141,5 @@ We can also develop code on the Arduberry, get it debugged and running then uplo
 The only problem I found with the Arduberry during my testing is that the header sockets are not labelled on the silk-screen printing on the Arduberry board, I kept having to refer to a wiring diagram http://forum.arduino.cc/index.php/topic,146315.0.html or stare at my Arduino Uno to be sure I wasn't wiring things to the wrong places. I'm from the school of wire it, check it, check it again, power it up. I don't like wiring (or re-wiring) anything while it is running.
 
 After starting this article I've done some additional programming using I²C on the Arduberry. I pulled all of my I²C devices (DS1307 RTC, MCP23017 with an 8x8 LED matrix and LSM303DLHC accelometer/magnetometer) off my Raspberry Pi and wired them to the Arduberry I²C pins. Programming those devices with C (gcc and Gordon Henderson's wiringPi) on the Raspberry Pi or the C/C++ hybrid and the Arduino IDE is interchangable. That may be a subject for a future article.
+
+For anyone developing applications that use a stand-alone Arduino or an Arduino connected to a Raspberry Pi the Arduberry is an excellent piece of kit to add to your collection of small board micro computers and micro-controllers.
