@@ -1,0 +1,119 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    
+
+
+
+
+
+
+
+
+
+Using Asterisk to implement a low cost telephone system Part 2 - Gateway to PSTN
+
+
+
+In Article of the month August The MAGPI N ° 26, Asterisk was installed on Raspberry Pi B / B +, configuring using FreePBX as a VoIP Server with terminal hardware SIP phone or SIP adapter (this article uses the Dlink DPH-150SE) and with software LinPhone soft phone (supports iOS, Android, Blackberry, Linux, Windows and OSX).
+
+Installed and running the IP telephone system the next step is to interconnect with other networks, in this article, we will make with traditional lines of telephone companies PSTN or known as conventional (Digital lines if supported E1 / T1 / J1 / BRI / SIP / IAX), which remain our system complete with all the features and services of a full IP Phone System at a very low cost.
+
+Additional Components
+
+The only additional hardware required is a Voice Gateway supporting SIP lines for connection to the PSTN (Public Switched Telephone Network), for this article the SPA-3102 is used, at a cost of about $ 50.00.
+
+Installation
+
+To install the SPA 3102, first must configure a Trunk in Asterisk, FreePBX on the console tab Connectivity option Trunk, add a Trunk, create a trunk for PSTN telephony supplier, the main configuration is: General Settings / Trunk Name: xyz (Descriptive Name for this Trunk), Outbound CallerID: <#######> (Format: <#######>. You can also use the format: "hidden" <#######> to hide the CallerID sent out over Digital lines if supported E1/T1/J1/BRI/SIP/IAX) y Outgoing Settings /Trunk Name: xxyyzz (Give this trunk a unique name. Example: myiaxtel), with the most important option PEER Details:  
+
+
+
+PEER Details:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click on Submit, then click on the red Apply Config button to save your changes.
+
+For input of calls configured in the Connectivity tab option Inbound Routes on Add Incoming Route / Description: (Provide a meaningful description of what this incoming route is), DID Number: (You can also use a pattern match (eg _2[345]X) to match a range of numbers)  and Set Destination to determine where the incoming call is routed, in this case to an IVR.
+
+
+
+
+
+To configure output calls tab Connectivity option Outbound Routes / Add Route / Route Settings / Route Name: (Name of this route. Should be used to describe what type of calls this route matches, for example, 'local' or 'long-distance'.), in option / Dial Patterns that will use this Route, configured according to each country or area and calls out to us to set restrictions as local, regional, national, international or mobile / cellular calls (A Dial Pattern is a unique set of digits that will select this route and send the call to the designated trunks. If a dialed pattern matches this route, no subsequent routes will be tried. If Time Groups are enabled, subsequent routes will be checked for matches outside of the designated times).
+
+
+
+
+
+In Option Trunk Sequence for Matched Routes (The Trunk Sequence controls the order of trunks that will be used when the above Dial Patterns are matched) and in Optional Destination on Congestion Normal Congestion.
+
+
+
+Click on Submit, then click on the red Apply Config button to save your changes.
+
+The Gateway SPA 3102 is connected to the power supply and the network cable into the Ethernet port, we entered through a browser with the default IP Address 1952.168.0.1, in Router Setup tab in Wan changed the IP address, Internet Connection Setting option Connection Type: Static IP; Static IP Settings option Static IP: 172.31.15.15 Gateway: 172.31.15.1 NetMask: 255.255.255.0 and click on Submit All Changes
+
+An example architecture diagram is shown below.
+
+
+
+
+In the Lan Setup tab in the Networking Service option: Bridge and applied Submit All Changes and network cable (patch cord) is connected to the Internet port of the SPA 3102 and Gateway entering the IP Address 172.31.15.15.
+
+
+
+
+ 
+Later in Voice, verified on the SIP option / SIP Parameters, SIP TCP Port Min: 5060 and SIP TCP Port Max: 5080, and RTP Parameters / RTP Packet Size: 0.020
+
+In Voice tab, PSTN Line, the most important options are: Line Enable: yes, SIP Settings/ SIP Transport: UDP;  SIP Port: 5070; SIP Proxy-Require: 172.31.15.11, Proxy and Registration /   Proxy: 172.31.15.11, Subscriber Information / Display Name: CNT; User ID: cnttrunk; Password: (As in FreePBX), Dial Plans / Dial Plan 2: (S0<:3285072), PSTN-To-VoIP Gateway Setup / PSTN Caller Default DP: 2, settings are described in the following illustrations:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click on Submit All Changes, to save your changes. Other options for Asterisk / FreePBX and the Gateway must be configured according to developer required.
+
+
+
+
+
+
+With the second part of Article VoIP Server, is the imagination of readers to develop any functionality of a VoIP Server high performance and low cost.
+
+
+WALBERTO ABAD
