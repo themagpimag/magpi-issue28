@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.3.svn">
-    <DOCUMENT ANZPAGES="4" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="6" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+    <DOCUMENT ANZPAGES="4" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="12" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -28,10 +28,10 @@
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="FreeSans Bold" LANGUAGE="English"/>
-        <STYLE NAME="Body text" ALIGN="3" LANGUAGE="English"/>
+        <STYLE NAME="Body text" ALIGN="3" FONTSIZE="11" LANGUAGE="English"/>
         <STYLE NAME="Body sub-title" FONT="FreeSans Bold Oblique" FONTSIZE="13" LANGUAGE="English"/>
         <STYLE NAME="Body title" FONT="FreeSans Bold" FONTSIZE="14" LANGUAGE="English"/>
-        <STYLE NAME="Code" LINESP="13" FONT="Monaco Regular" FONTSIZE="10" LANGUAGE="English"/>
+        <STYLE NAME="Code" LINESP="13" FONT="Monaco Regular" FONTSIZE="9" LANGUAGE="English"/>
         <STYLE NAME="New Style" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="1" LEVEL="0" NAME="Header" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
@@ -183,6 +183,8 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="514.688031496064" YPOS="134.367464074479" WIDTH="145.825511811024" HEIGHT="126.549921259843" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="0" PWIDTH="1.41732283464567" PCOLOR="Black" PCOLOR2="20% Gray" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Polygon2440" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="DougieLawson.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 137.322 0 137.322 0 137.322 0 142.018 0 145.826 8.50394 145.826 3.80734 145.826 8.50394 145.826 8.50394 145.826 118.046 145.826 118.046 145.826 118.046 145.826 122.743 137.322 126.55 142.018 126.55 137.322 126.55 137.322 126.55 8.50394 126.55 8.50394 126.55 8.50394 126.55 3.80734 126.55 0 118.046 0 122.743 0 118.046 0 118.046 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="16" COCOOR="0 0 0 0 145.826 0 145.826 0 145.826 0 145.826 0 145.826 126.55 145.826 126.55 145.826 126.55 145.826 126.55 0 126.55 0 126.55 0 126.55 0 126.55 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="10.6742936251852" gYpos="10.9549523533976" gWidth="153" gHeight="193.248031453543" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
+            <ImageEffect Code="3" Param="43"/>
+            <ImageEffect Code="4" Param="29"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="518.116535433071" YPOS="270.4604398775" WIDTH="138.968503937008" HEIGHT="35.3877165354331" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 138.969 0 138.969 0 138.969 0 138.969 0 138.969 35.3877 138.969 35.3877 138.969 35.3877 138.969 35.3877 0 35.3877 0 35.3877 0 35.3877 0 35.3877 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 138.969 0 138.969 0 138.969 0 138.969 0 138.969 35.3877 138.969 35.3877 138.969 35.3877 138.969 35.3877 0 35.3877 0 35.3877 0 35.3877 0 35.3877 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="11.2678555855936" gYpos="142.796616357756" gWidth="153" gHeight="193.248031453543" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -216,11 +218,16 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="360.080708665355" WIDTH="538.588346456693" HEIGHT="447.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="31" BACKITEM="-1">
-            <ITEXT CH="Before I start I'll give you two crucial definitions; 1) micro-controller - an autonomous, single processor computer system that doesn't have an operating system, has general purpose I/O (GPIO), programmable memory (flash &amp; RAM) and some read-only memory it will normally run a single custom made dedicated program for a single purpose 2) micro computer - a single or multiple processor system that runs a operating system. It may have external GPIO, it usually has a keyboard and screen. It will normally run a multi-programming, multi-tasking system and a variety of general purpose application programs and some locally written programs. The crucial difference is that a micro computer appears to be running more than one task at a time, a micro-controller is running one task only. "/>
+            <ITEXT CH="Before I start I'll give you two crucial definitions; "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="1) micro-controller - an autonomous, single processor computer system that doesn't have an operating system, has general purpose I/O (GPIO), programmable memory (flash &amp; RAM) and some read-only memory it will normally run a single custom made dedicated program for a single purpose."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="2) micro computer - a single or multiple processor system that runs a operating system. It may have external GPIO, it usually has a keyboard and screen. It will normally run a multi-programming, multi-tasking system and a variety of general purpose application programs and some locally written programs. The crucial difference is that a micro computer appears to be running more than one task at a time, a micro-controller is running one task only. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Since its introduction in 2005 the Arduino has become a very popular micro-controller used by hobbyists. It's cheap, it's easy to program, it's versatile and well supported. The single task application program running on an Arduino is typically called a &quot;sketch&quot;. Arduino has a standard layout of GPIO pins so there's a massive collection of add-on hardware available. The additional hardware that fits an Arduino is typically called a &quot;shield&quot;."/>
-            <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Compare that with the Raspberry Pi which is a very popular micro computer used for education, by hobbyists and a whole variety of other folk for a multitude of tasks. They're from the same stable, built by their developers for similar reasons. "/>
@@ -228,92 +235,86 @@
             <para PARENT="Body text"/>
             <ITEXT CH="The Raspberry Pi and the Arduino may be suited to different projects but they work well together. It's quite common for the Raspberry Pi with the arduino development IDE to be used to develop sketches that can be uploaded to an Arduino. The starting point is "/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="$ sudo apt-get install arduino "/>
-            <para PARENT="Code"/>
-            <ITEXT CH="then when that is complete connect your Arduino with the USB-A to USB-B wire, start the GUI and write your first application."/>
             <para PARENT="Body text"/>
-            <para/>
-            <ITEXT CH="Here's a variation on the normal blink program that will light four LEDs in sequence."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="10" CH="/* blinkSeq.ino "/>
+            <ITEXT FONTSIZE="9" CH="$ sudo apt-get install arduino "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  A variation on &quot;Hello World&quot; for the Arduberry"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="11" CH="then when that is complete connect your Arduino with the USB-A to USB-B wire, start the GUI and write your first application."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="11" CH="Here's a variation on the normal blink program that will light four LEDs in sequence."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="9" CH="/* blinkSeq.ino "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH=" (C) 2014 Dougie Lawson, Creative Commons v4.0 BY-NC-SA"/>
+            <ITEXT FONTSIZE="9" CH="  A variation on &quot;Hello World&quot; for the Arduberry"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH=" "/>
+            <ITEXT FONTSIZE="9" CH=" (C) 2014 Dougie Lawson, Creative Commons v4.0 BY-NC-SA"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH=" Wire four LEDs with 560ohm resistors to pins 6, 7, 8 &amp; 9"/>
+            <ITEXT FONTSIZE="9" CH=" "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  */"/>
+            <ITEXT FONTSIZE="9" CH=" Wire four LEDs with 560ohm resistors to pins 6, 7, 8 &amp; 9"/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="void setup() {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  for (int i=6; i&lt;=9; i++) {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="    pinMode(i, OUTPUT);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  }"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="}"/>
+            <ITEXT FONTSIZE="9" CH="  */"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="void loop() {"/>
+            <ITEXT FONTSIZE="9" CH="void setup() {"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  for (int i=6; i&lt;=9; i++) {"/>
+            <ITEXT FONTSIZE="9" CH="  for (int i=6; i&lt;=9; i++) {"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="    digitalWrite(i,LOW);"/>
+            <ITEXT FONTSIZE="9" CH="    pinMode(i, OUTPUT);"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="    delay(999);"/>
+            <ITEXT FONTSIZE="9" CH="  }"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="    digitalWrite(i,HIGH);"/>
+            <ITEXT FONTSIZE="9" CH="}"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="    delay(999);"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  }"/>
+            <ITEXT FONTSIZE="9" CH="void loop() {"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="}"/>
+            <ITEXT FONTSIZE="9" CH="  for (int i=6; i&lt;=9; i++) {"/>
             <para PARENT="Code"/>
-            <para/>
-            <ITEXT CH="Wire four LEDS, each with a 560 ohm current limiting resistor between pin 6, pin 7, pin 8 and pin 9 and GND on your Arduino Uno. Upload the sketch and the LEDs will wink. (On an Arduino Uno there's a factory fitted LED on pin 13 that doesn't exist on an Arduberry so we'd need to add a fifth LED with a 560 ohm resistor between pin 13 and GND to run the example blink sketch.)"/>
+            <ITEXT FONTSIZE="9" CH="    digitalWrite(i,LOW);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="    delay(999);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="    digitalWrite(i,HIGH);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="    delay(999);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  }"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="}"/>
+            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="11" CH="Wire four LEDS, each with a 560 ohm current limiting resistor between pin 6, pin 7, pin 8 and pin 9 and GND on your Arduino Uno. Upload the sketch and the LEDs will wink. (On an Arduino Uno there's a factory fitted LED on pin 13 that doesn't exist on an Arduberry so we'd need to add a fifth LED with a 560 ohm resistor between pin 13 and GND to run the example blink sketch.)"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="So we have the basics of using Raspbian with the GUI to program an Arduino. The only thing that's cumbersome is the wiring, taking up a USB socket on the Pi (or in our USB hub). Wouldn't it be good if we could get an Arduino (primarily as a development tool) that sat on the Raspberry Pi GPIO pins (in the way that a shield fits on an Arduino Uno). "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
             <ITEXT CH="From the top it looks like an Arduino Uno, there's the standard layout of sockets that are used for stacking Arduino shields. Note: this Arduberry is missing a few optional components, there's no 5V power supply, voltage regulator, capacitors or header pins for the ICSP connector."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="&lt;&lt;&lt; INSERT Arduberry_BOTTOM.jpg HERE &gt;&gt;&gt;"/>
-            <para/>
-            <para/>
             <ITEXT CH="From the bottom you see that there's a standard 26-pin GPIO connector and the heart of the Arduino, the Atmel Atmega328P chip down there. The Arduberry will sit on a Raspberry Pi model B or model B+. When it's mounted the Arduberry gets connections to the Raspberry Pi 5V, 3V3, GND, UART TX &amp; RX, SPI SCLK, MOSI, MISO &amp; CE0, IC SDA &amp; SCL pins. So you MUST shutdown your Raspberry Pi and pull the power before mounting an Arduberry on the GPIO pins. With a Raspberry Pi model B+ you MUST ensure that just the first 26 pins are connected and are lined up correctly. Failure to power down or line up the pins could destroy either your Raspberry Pi or your Arduberry or both."/>
             <para PARENT="Body text"/>
-            <para/>
-            <ITEXT CH="&lt;&lt;&lt; INSERT Arduberry_Pi.jpg HERE &gt;&gt;&gt;"/>
-            <para/>
-            <para/>
-            <para/>
+            <para PARENT="Body text"/>
             <ITEXT CH="So we've got the Arduberry mounted and we've rebooted Raspbian. There's some work needed to get the Arduberry running."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="9" CH="$ cd /tmp"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="cd /tmp"/>
+            <ITEXT FONTSIZE="9" CH="$ git clone https://github.com/DexterInd/ArduBerry.git"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="git clone https://github.com/DexterInd/ArduBerry.git"/>
+            <ITEXT FONTSIZE="9" CH="$ cd Arduberry"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="cd Arduberry"/>
+            <ITEXT FONTSIZE="9" CH="$ sudo chmod +x install.sh"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="sudo chmod +x install.sh"/>
+            <ITEXT FONTSIZE="9" CH="$ sudo ./install.sh"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="sudo ./install.sh"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="reply Y to the &quot;Do you want to continue [Y/n]&quot; prompt."/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="11" CH="Reply Y to the &quot;Do you want to continue [Y/n]&quot; prompt."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
             <ITEXT CH="That install.sh script will install all the pieces you need (and have not yet installed), customise them for the Arduberry and when it's done it will reboot your Raspberry Pi."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
@@ -325,134 +326,139 @@
             <para PARENT="Body text"/>
             <ITEXT CH="If we swap the LED on pin 9 for a red LED, on pin 8 for a yellow LED and pin 7 for a green LED this sketch will run the familiar sequence of traffic lights. The Arduino programming language is a hybrid between C and C++ so you can use compiler directives. In this sketch if we change it to &quot;undef&quot; UK and &quot;define&quot; US it will change to the United States sequence (from red straight to green, skipping red &amp; amber). Compiler directives are useful for debugging. You can define code that will only be built into the sketch when a true value or number greater than zero value is defined for a DEBUG compiler variable. I use that to litter my code with Serial.print() and Serial.println() commands. When the sketch works update it to #define DEBUG 0 and the debugging code won't be built into the final version. "/>
             <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="9" CH="/* TL.ino "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="/* TL.ino "/>
+            <ITEXT FONTSIZE="9" CH="  Traffic lights on the Arduino"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  Traffic lights on the Arduino"/>
+            <ITEXT FONTSIZE="9" CH=" (C) 2014 Dougie Lawson, Creative Commons v4.0 BY-NC-SA"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH=" (C) 2014 Dougie Lawson, Creative Commons v4.0 BY-NC-SA"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH=" */"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="/* Use compiler directives to control the sequence */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="#define UK 1"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="#define US 2"/>
+            <ITEXT FONTSIZE="9" CH=" */"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="// RED, RED+AMBER, GREEN, AMBER RED ..."/>
+            <ITEXT FONTSIZE="9" CH="/* Use compiler directives to control the sequence */"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="#define COUNTRY UK"/>
+            <ITEXT FONTSIZE="9" CH="#define UK 1"/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="// We're going to skip RED+AMBER"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="// RED, GREEN, AMBER, RED ..."/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="//#undef COUNTRY"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="//#define COUNTRY US"/>
+            <ITEXT FONTSIZE="9" CH="#define US 2"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="int redLED = 9;"/>
+            <ITEXT FONTSIZE="9" CH="// RED, RED+AMBER, GREEN, AMBER RED ..."/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="int yellLED = 8;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="int grnLED = 7;"/>
+            <ITEXT FONTSIZE="9" CH="#define COUNTRY UK"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="void setup() {"/>
+            <ITEXT FONTSIZE="9" CH="// We're going to skip RED+AMBER"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="// RED, GREEN, AMBER, RED ..."/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="//#undef COUNTRY"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="//#define COUNTRY US"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  pinMode(redLED, OUTPUT);"/>
+            <ITEXT FONTSIZE="9" CH="int redLED = 9;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  pinMode(yellLED, OUTPUT);"/>
+            <ITEXT FONTSIZE="9" CH="int yellLED = 8;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  pinMode(grnLED, OUTPUT);"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="}"/>
+            <ITEXT FONTSIZE="9" CH="int grnLED = 7;"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="void loop() {"/>
+            <ITEXT FONTSIZE="9" CH="void setup() {"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  digitalWrite(redLED, HIGH);"/>
+            <ITEXT FONTSIZE="9" CH="  pinMode(redLED, OUTPUT);"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  delay(1500);"/>
+            <ITEXT FONTSIZE="9" CH="  pinMode(yellLED, OUTPUT);"/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="#if COUNTRY == UK"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  digitalWrite(yellLED, HIGH);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  delay(750);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="#endif"/>
+            <ITEXT FONTSIZE="9" CH="  pinMode(grnLED, OUTPUT);"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  digitalWrite(redLED, LOW);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  digitalWrite(yellLED, LOW);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  digitalWrite(grnLED, HIGH);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  delay(1500);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  digitalWrite(grnLED, LOW);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  digitalWrite(yellLED, HIGH);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  delay(750);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="  digitalWrite(yellLED, LOW);"/>
+            <ITEXT FONTSIZE="9" CH="}"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="}"/>
+            <ITEXT FONTSIZE="9" CH="void loop() {"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <para/>
+            <ITEXT FONTSIZE="9" CH="  digitalWrite(redLED, HIGH);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  delay(1500);"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="#if COUNTRY == UK"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  digitalWrite(yellLED, HIGH);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  delay(750);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="#endif"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  digitalWrite(redLED, LOW);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  digitalWrite(yellLED, LOW);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  digitalWrite(grnLED, HIGH);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  delay(1500);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  digitalWrite(grnLED, LOW);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  digitalWrite(yellLED, HIGH);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  delay(750);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="  digitalWrite(yellLED, LOW);"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="}"/>
+            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
             <ITEXT CH="One thing I found straight away with the Arduberry is that while the Raspberry Pi is powered up (even if Raspbian has been shut down with a sudo shutdown -h command) the Arduberry will continue to run. So I wrote a null sketch I could load to, effectively, leave the Arduberry running dormant. "/>
             <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="9" CH="/* null.ino"/>
             <para PARENT="Code"/>
-            <ITEXT CH="/* null.ino"/>
+            <ITEXT FONTSIZE="9" CH=" Load a null sketch so the Arduberry runs dormant"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" Load a null sketch so the Arduberry runs dormant"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" */"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="void setup() {"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="}"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="void loop() {"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="}"/>
+            <ITEXT FONTSIZE="9" CH=" */"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="12" CH="With an Arduino Uno it's normal to pull the USB (or the 5V power) to shut it down, but that's less easy with the Arduberry since we have to shutdown Raspbian, pull the power, pull the board off the GPIO pins then reboot our Raspberry Pi. With the null sketch the Arduberry is still running the dummy loop() function but appears to be doing nothing to the outside world."/>
+            <ITEXT FONTSIZE="9" CH="void setup() {"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="}"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="void loop() {"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="}"/>
+            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="11" CH="With an Arduino Uno it's normal to pull the USB (or the 5V power) to shut it down, but that's less easy with the Arduberry since we have to shutdown Raspbian, pull the power, pull the board off the GPIO pins then reboot our Raspberry Pi. With the null sketch the Arduberry is still running the dummy loop() function but appears to be doing nothing to the outside world."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="12" CH="The other feature of the Arduberry is that we can upload a sketch while it is stacked on top of the Raspberry Pi, get it debugged and running the way we want then perform an &quot;Arduberry Separation&quot; to have the Arduberry running as a stand-alone system. So we upload the sketch with CTRL+SHIFT+U while the Raspberry Pi is running, then shutdown the Raspberry Pi (logout from the GUI and choose the shutdown option or open a command window and use a sudo shutdown -h now command). Pull the power supply from the Raspberry Pi (because we don't want to damage either the Raspberry Pi or the Arduberry during separation). The Arduberry has a microUSB connector on the board, so we can borrow the Raspberry Pi's power supply to power our now independent Arduberry. "/>
+            <ITEXT FONTSIZE="11" CH="The other feature of the Arduberry is that we can upload a sketch while it is stacked on top of the Raspberry Pi, get it debugged and running the way we want then perform an &quot;Arduberry Separation&quot; to have the Arduberry running as a stand-alone system. So we upload the sketch with CTRL+SHIFT+U while the Raspberry Pi is running, then shutdown the Raspberry Pi (logout from the GUI and choose the shutdown option or open a command window and use a sudo shutdown -h now command). Pull the power supply from the Raspberry Pi (because we don't want to damage either the Raspberry Pi or the Arduberry during separation). The Arduberry has a microUSB connector on the board, so we can borrow the Raspberry Pi's power supply to power our now independent Arduberry. "/>
             <para PARENT="Body text"/>
-            <para/>
-            <ITEXT CH="&lt;&lt;&lt; INSERT Arduberry_No_Pi.jpg HERE &gt;&gt;&gt;"/>
-            <para/>
-            <para/>
-            <para/>
-            <ITEXT CH="See https://www.dexterindustries.com/Arduberry/getting-started/powering-arduberry-dc-power-jack/ if you want to add the optional components to add a 5V power supply to the Arduberry."/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="See https://www.dexterindustries.com/Arduberry/getting-started/powering-arduberry-dc-power-jack/ "/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="if you want to add the optional components to add a 5V power supply to the Arduberry."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="We can also develop code on the Arduberry, get it debugged and running then upload it to a regular Arduino Uno, the Arduberry becomes a development system rather than a runtime system. The layout of the pins is identical, the programming code we write for the sketch is identical, the size of the file uploaded to the Arduino or Arduberry is identical. That may be an easier way to deploy our Arduino programs into the field where they're going to run away from the Raspberry Pi."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The only problem I found with the Arduberry during my testing is that the header sockets are not labelled on the silk-screen printing on the Arduberry board, I kept having to refer to a wiring diagram http://forum.arduino.cc/index.php/topic,146315.0.html or stare at my Arduino Uno to be sure I wasn't wiring things to the wrong places. I'm from the school of wire it, check it, check it again, power it up. I don't like wiring (or re-wiring) anything while it is running."/>
+            <ITEXT CH="The only problem I found with the Arduberry during my testing is that the header sockets are not labelled on the silk-screen printing on the Arduberry board, I kept having to refer to a wiring diagram http://forum.arduino.cc/index.php/topic,146315.0.html"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH=" or stare at my Arduino Uno to be sure I wasn't wiring things to the wrong places. I'm from the school of wire it, check it, check it again, power it up. I don't like wiring (or re-wiring) anything while it is running."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="After starting this article I've done some additional programming using IC on the Arduberry. I pulled all of my IC devices (DS1307 RTC, MCP23017 with an 8x8 LED matrix and LSM303DLHC accelometer/magnetometer) off my Raspberry Pi and wired them to the Arduberry IC pins. Programming those devices with C (gcc and Gordon Henderson's wiringPi) on the Raspberry Pi or the C/C++ hybrid and the Arduino IDE is interchangable. That may be a subject for a future article."/>
+            <ITEXT CH="After starting this article I've done some additional programming using I"/>
+            <ITEXT FEATURES="inherit superscript" CH="2"/>
+            <ITEXT CH="C on the Arduberry. I pulled all of my I"/>
+            <ITEXT FEATURES="inherit superscript" CH="2"/>
+            <ITEXT CH="C devices (DS1307 RTC, MCP23017 with an 8x8 LED matrix and LSM303DLHC accelometer/magnetometer) off my Raspberry Pi and wired them to the Arduberry I"/>
+            <ITEXT FEATURES="inherit superscript" CH="2"/>
+            <ITEXT CH="C pins. Programming those devices with C (gcc and Gordon Henderson's wiringPi) on the Raspberry Pi or the C/C++ hybrid and the Arduino IDE is interchangable. That may be a subject for a future article."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="For anyone developing applications that use a stand-alone Arduino or an Arduino connected to a Raspberry Pi the Arduberry is an excellent piece of kit to add to your collection of small board micro computers and micro-controllers."/>
@@ -556,19 +562,31 @@
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.34708661126" YPOS="2720.28448818921" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="45">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="410.37437007874" YPOS="368.662677165354" WIDTH="256.561062992127" HEIGHT="194.333385826772" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.08" LOCALSCY="0.08" LOCALX="-850.393700787402" LOCALY="-850.393700787402" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Arduino_Uno.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 194.333 256.561 194.333 256.561 194.333 256.561 194.333 0 194.333 0 194.333 0 194.333 0 194.333 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 194.333 256.561 194.333 256.561 194.333 256.561 194.333 0 194.333 0 194.333 0 194.333 0 194.333 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="128.347086614173" YPOS="630.211181102362" WIDTH="256.561062992127" HEIGHT="194.333385826772" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.08" LOCALSCY="0.08" LOCALX="-850.393700787402" LOCALY="-850.393700787402" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Arduino_Uno.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 194.333 256.561 194.333 256.561 194.333 256.561 194.333 0 194.333 0 194.333 0 194.333 0 194.333 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.561 0 256.561 0 256.561 0 256.561 0 256.561 194.333 256.561 194.333 256.561 194.333 256.561 194.333 0 194.333 0 194.333 0 194.333 0 194.333 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="411.12437007874" YPOS="1374.99606299213" WIDTH="255.811062992127" HEIGHT="192.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0496527684379129" LOCALSCY="0.0496527684379129" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Arduberry_Pi.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.811 0 255.811 0 255.811 0 255.811 0 255.811 192.75 255.811 192.75 255.811 192.75 255.811 192.75 0 192.75 0 192.75 0 192.75 0 192.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.811 0 255.811 0 255.811 0 255.811 0 255.811 192.75 255.811 192.75 255.811 192.75 255.811 192.75 0 192.75 0 192.75 0 192.75 0 192.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="411.125669291339" YPOS="1397.99606299213" WIDTH="255.809763779528" HEIGHT="192.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.07" LOCALSCY="0.07" LOCALX="0" LOCALY="-445.444319460068" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Arduberry_Pi.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.81 0 255.81 0 255.81 0 255.81 0 255.81 192.75 255.81 192.75 255.81 192.75 255.81 192.75 0 192.75 0 192.75 0 192.75 0 192.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.81 0 255.81 0 255.81 0 255.81 0 255.81 192.75 255.81 192.75 255.81 192.75 255.81 192.75 0 192.75 0 192.75 0 192.75 0 192.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="128.347086614173" YPOS="3050.74606299213" WIDTH="256.527283464566" HEIGHT="198" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0497917863867558" LOCALSCY="0.0497917863867558" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Arduberry_No_Pi.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.527 0 256.527 0 256.527 0 256.527 0 256.527 198 256.527 198 256.527 198 256.527 198 0 198 0 198 0 198 0 198 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.527 0 256.527 0 256.527 0 256.527 0 256.527 198 256.527 198 256.527 198 256.527 198 0 198 0 198 0 198 0 198 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="410.408149606301" YPOS="2816.74606299213" WIDTH="256.527283464566" HEIGHT="198" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0698" LOCALSCY="0.0698" LOCALX="-568.553572637231" LOCALY="-487.331633689055" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Arduberry_No_Pi.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.527 0 256.527 0 256.527 0 256.527 0 256.527 198 256.527 198 256.527 198 256.527 198 0 198 0 198 0 198 0 198 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.527 0 256.527 0 256.527 0 256.527 0 256.527 198 256.527 198 256.527 198 256.527 198 0 198 0 198 0 198 0 198 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="409.658149606301" YPOS="1048.99606299213" WIDTH="257.277283464566" HEIGHT="186.437952755907" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.09" LOCALSCY="0.09" LOCALX="-1133.85826771654" LOCALY="-1262.62029746282" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Arduberry_TOP.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.277 0 257.277 0 257.277 0 257.277 0 257.277 186.438 257.277 186.438 257.277 186.438 257.277 186.438 0 186.438 0 186.438 0 186.438 0 186.438 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.277 0 257.277 0 257.277 0 257.277 0 257.277 186.438 257.277 186.438 257.277 186.438 257.277 186.438 0 186.438 0 186.438 0 186.438 0 186.438 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="13" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="409.658149606301" YPOS="956.99606299213" WIDTH="257.277283464566" HEIGHT="186.437952755907" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.09" LOCALSCY="0.09" LOCALX="-1133.85826771654" LOCALY="-1262.62029746282" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Arduberry_TOP.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.277 0 257.277 0 257.277 0 257.277 0 257.277 186.438 257.277 186.438 257.277 186.438 257.277 186.438 0 186.438 0 186.438 0 186.438 0 186.438 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.277 0 257.277 0 257.277 0 257.277 0 257.277 186.438 257.277 186.438 257.277 186.438 257.277 186.438 0 186.438 0 186.438 0 186.438 0 186.438 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.347086614173" YPOS="3315.75" WIDTH="256.49937007874" HEIGHT="26.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://www.dexterindustries.com/Arduberry/getting-started/powering-arduberry-dc-power-jack/ " ANZIEL="3" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text60" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.499 0 256.499 0 256.499 0 256.499 0 256.499 26.25 256.499 26.25 256.499 26.25 256.499 26.25 0 26.25 0 26.25 0 26.25 0 26.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.499 0 256.499 0 256.499 0 256.499 0 256.499 26.25 256.499 26.25 256.499 26.25 256.499 26.25 0 26.25 0 26.25 0 26.25 0 26.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="411.096456692913" YPOS="1356" WIDTH="255.838976377953" HEIGHT="191.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.12" LOCALSCY="0.12" LOCALX="-1606.29921259843" LOCALY="-1086.61417322835" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Arduberry_BOTTOM.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.839 0 255.839 0 255.839 0 255.839 0 255.839 191.25 255.839 191.25 255.839 191.25 255.839 191.25 0 191.25 0 191.25 0 191.25 0 191.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.839 0 255.839 0 255.839 0 255.839 0 255.839 191.25 255.839 191.25 255.839 191.25 255.839 191.25 0 191.25 0 191.25 0 191.25 0 191.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="411.096456692913" YPOS="688.977637795276" WIDTH="255.838976377953" HEIGHT="22.0223622047243" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="Theme" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="15" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.8" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.839 0 255.839 0 255.839 0 255.839 0 255.839 22.0224 255.839 22.0224 255.839 22.0224 255.839 22.0224 0 22.0224 0 22.0224 0 22.0224 0 22.0224 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.839 0 255.839 0 255.839 0 255.839 0 255.839 22.0224 255.839 22.0224 255.839 22.0224 255.839 22.0224 0 22.0224 0 22.0224 0 22.0224 0 22.0224 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
