@@ -1,0 +1,133 @@
+
+Computer Vision on the Raspberry Pi
+Meet Piter, my avatar robot project. He stands on two wheels, and has a Raspberry Pi for brains. He has a Pi camera along with hardware for making light and sound. His head has servos so that he can look around, and he is able to tell how far away he is from obstacles in his path.
+
+I’m looking to promote interest in robotics at my local cub scout pack. Cubs learn lots of techniques for use when they are out and about hiking. One of them is called ‘tracking’. When one group of cubs needs to follow a trail left by another group, they look for signs left behind by the lead group to tell them where to go. The lead group leaves behind marks; knotted grass or small groups of stones that tell the following group which way they went.
+
+We created some symbols that mimic the ones they would use in the field that the robot will find and follow. The symbols look like this:
+
+< all.png image here > 
+
+Robot tracking symbols - Turn Back, Turn Left, Home, Turn Right 
+
+The symbols are printed in green and the robot first of all looks for a patch of that colour in his field of view. He drives towards the largest matching patch until he is close enough to recognise the symbol. Once the symbol is recognised the robot follows the instruction and then looks for the next patch. He repeats this until he reaches the symbol telling him he has reached his goal.
+
+To do this task, the robot uses the onboard Raspberry Pi and camera and processes the real time images using an awesome open source computer vision library called OpenCV. OpenCV runs on all major operating systems and provides all the tools needed to locate and decode the symbols. I could have sent the camera images to a host computer and done the OpenCV processing there, returning the results to the Raspberry Pi. However, that would mean the robot would not be truly autonomous. I therefore chose to implement the camera processing in the Raspberry Pi on board the robot. This did mean that I had to think a bit more about performance. In the end I achieved processing live images at about 2 to 3 frames per second. Not enough to play tennis, but easily enough to find and follow cub scout tracking signs.
+
+Let's get started...
+Installing OpenCV is quite straightforward, instructions for doing so are included at my robots web site. To allow OpenCV to read images from the Raspberry Pi camera, we also need a utility called ‘uv4l’ (Userspace Video for Linux). Instructions for this are also found on the website.
+
+I’m going to use Python for finding and navigating between the symbols. To read an image from the Raspberry Pi camera we must first open the camera inside OpenCV.
+
+
+import cv2
+cap = cv2.VideoCapture(-1)
+
+Next, we want to read a frame from the camera.
+
+success, frame = cap.read()
+
+It’s that easy! Now, let’s show the image in a window to make sure we really got a picture.
+
+cv2.imshow(frame)
+
+So now we have a picture. Each frame is a single bitmap in the stream of video data coming from the Pi camera.
+
+Where is our symbol?
+How do we look for a patch of a particular colour? OpenCV has a built in function to do just that. It’s called inRange().
+
+mask = cv2.inRange(frame, lowColour, highColour)
+
+Here, lowColour and highColour are two tri-valued colour variables that represent the ends of a range of colours between which OpenCV will accept as being part of the patch. Why do we need a range? Well, a symbol in the real world has all sorts of things affecting how it looks. There may be shadows or reflections falling across it, and different lighting will make the actual colour received at the camera differ slightly from the ideal. Accordingly, we set inRange to accept a range of colours so that we ignore these effects.
+
+What about the returned value, mask? This variable is another image, but unlike the original frame it is black and white. The white parts represent the parts of the image that OpenCV thinks is part of our colour patch and the black parts are, well, not part of the patch. We will use this mask later on in the processing.
+
+Choosing the correct colour range is critical for successfully finding the patch. So much so that I wrote a special Python program that shows the resulting mask while displaying some sliders for setting the colour. If the range is too narrow, then the mask will not show all of the patch or might even be all black. If the range is too wide, then the mask will include parts of the scene that are not part of the patch or might even be all white.
+
+< masks.png image here >
+
+Once we have used this program for the lighting situation we are going to run in, the mask image will look like the top right quadrant of the figure above. We make a note of the high and low colour values and encode them into the actual runtime program as lowColour and HighColour.
+
+Ok, so now we have a bitmap which shows the part of the scene where the symbol is found. This is nice, but it’s not very helpful if we’re going to drive the robot closer to the symbol in the real world. What would be better would be if we knew the coordinates of the centre of the patch. That way, if the x value is in the left hand side of the image we can steer left to centre it.
+
+OpenCV has just the thing. To find the centre of the patch, we use a function called findContours(). You know what contour lines on a map are, right? They are lines that join points that are at the same height above sea level. These OpenCV contours represent a path through the bits in the mask image which have the same colour value.
+
+contours, hierarchy = cv2.findContours(mask, RETR_TREE, CHAIN_APPROX_SIMPLE)
+
+We pass in the mask we found using inRange() and we get back a set of contours found in the mask. Why do we get more than one contour? Well, if we didn’t get our colour range perfect, there will be some holes or islands in the mask. OpenCV can’t know which contour is the actual part of the image we want, so it returns all the contours it finds. But which one do we need? No worries. Since we tuned our colour range to find our patch, we can assume that the contour with the largest area houses our patch.
+
+# Find the contour with the greatest area
+area = 0.0
+contour = None
+for candidateContour in contours:
+    candidateArea = cv2.contourArea(candidateContour)
+    if candidateArea > area:
+        area = candidateArea
+        contour = candidateContour
+
+After executing this loop, the contour variable holds the contour which surrounds our patch in the robots field of view. Now we can find the co-ordinates of the centre:
+
+m = cv2.moments(c)
+centroid = (m['m10']/m['m00'],m['m01']/m['m00'])
+
+We call it a centroid as opposed to a centre because the the contour is almost certainly not a regular shape.
+
+Armed with our centroid we can use the x value to steer the robot left and right until we get close enough to the symbol to identify it. We can tell when we’re close enough when the the patch gets to a certain size:
+
+x, y, w, h = cv2.boundingRect(contour)
+
+This will give us the size of the patch as it appears to the robot, so now we know when to stop driving forward.
+
+Which symbol did we find?
+Next, we need to decide what symbol we’re stopped in front of. To do this, we use OpenCVs feature detection and object recognition support. First of all, we need a grayscale image. To do this I split out the red channel from the original frame. Because the symbols are printed in green, the red channel will show the symbol in the strongest contrast (a bit like what happens with old fashioned 3D glasses).
+
+< channels.png image here >
+
+Sample image in red and green channels
+
+We also do some auto exposure on the image to make it as clear as possible for the recognition process.
+
+image = cv2.equalizeHist(cv2.split(frame)[RED])
+
+Next, we crop out the part of the image that contains the patch (x, y, h and w come from the bounding rectangle we got from the contour).
+
+image = image[y:y+h, x:x+w]
+
+Now, we’ll use an OpenCV SURF feature detector to detect key points in the image. Key points are parts of the image which contain corners and other significant features. We extract them using the function detectAndCompute().
+
+keyPoints, descriptors = detector.detectAndCompute(image, None)
+
+The descriptors are data structures which tell more about the key points, such as the orientation of a corner or edge. We don’t need to know anything about this information because OpenCV also provides tools for matching key point descriptors in different images. This is how we decide which symbol we’re looking at. What we do is to provide the program with a perfect image of each symbol. We run the feature detector on the sample images and compute their key points too.
+
+symbol = cv2.imread(fileName)
+symbolKeypoints, symbolDescriptors = detector.detectAndCompute(symbol, None)
+
+Since the ideal images don’t change, we only need to compute these key points and descriptors once.
+
+Now, armed with descriptors for our ideal images we run an OpenCV matcher on the two sets of key points.
+
+FLANN_INDEX_KDTREE = 0
+index_params = dict(algorithm = FLANN_INDEX_KDTREE, trees = 5)
+search_params = dict(checks = 50)
+matcher = cv2.FlannBasedMatcher(index_params, search_params)
+matches = matcher.knnMatch(symbolDescriptors, descriptors, 2)
+
+We rank the matches by how closely they match between the images and only take the best ones.
+
+good_matches = []
+for match in matches:
+    if match[0].distance < match[1].distance * 0.7:
+        good_matches.append(match)
+
+< Good Matches.png image here >
+
+Matches between symbol and real scene
+
+The matches we have left define how closely the ideal image resembles the actual piece of the robots view. We repeat the match process for each candidate symbol. The more matches we get, the more likely the symbol we’re looking at is the one in the ideal image.
+
+Conclusion
+Once we know which image matches, we can implement the code which makes the robot respond to the symbol, but that is a topic for another issue.
+
+All the code described here is available in full at https://github.com/Guzunty/Pi/tree/master/src/gz_piter. You don’t even need a robot to try it out. All you will need is a Raspberry Pi and camera (a usb webcam will also work).
+
+Article by Derek Campbell
