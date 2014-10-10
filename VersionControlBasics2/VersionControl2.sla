@@ -133,7 +133,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="654.284409448819" YPOS="1716.00094486142" WIDTH="36.8503937007874" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="29"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="33"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -142,7 +142,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="104.363149606299" YPOS="834.11149604252" WIDTH="36.8503937007874" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="28"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="32"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -213,19 +213,31 @@
             <ITEXT CH="Introduction"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="In part 1 of this article, in Issue 27 of The MagPi, I introduced you to the Git Version Control software. We installed and configured Git and then downloaded a sample project called snakes. We created a repository for the snakes project and added all the project files to the Git repository."/>
+            <ITEXT CH="In part 1 of this article, in Issue 27 of The MagPi, I introduced you to the Git Version Control software. We installed and configured Git and then downloaded a sample project called "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="snakes"/>
+            <ITEXT CH=". We created a repository for the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="snakes"/>
+            <ITEXT CH=" project and added all the project files to the Git repository."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="This month I will demonstrate the value of running Version Control software by showing what happens when we make changes to our project files. Before we start, make sure you are in the snakes folder. Enter:"/>
+            <ITEXT CH="This month I will demonstrate the value of running Version Control software by showing what happens when we make changes to our project files. Before we start, make sure you are in the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="snakes"/>
+            <ITEXT CH=" folder. Enter:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" cd ~/snakes"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now lets make a change.  The ﬁrst step is to create a work area in which to make the change.  In Git (and many other VC tools) this dedicated work area is called a branch.    When you ﬁrst create a repo the default branch that is created is called the master. However, it is important to know that there is nothing special about the master branch - it can be treated in exactly the same way as any branches you create yourself. "/>
+            <ITEXT CH="Now lets make a change.  The ﬁrst step is to create a work area in which to make the change.  In Git (and many other VC tools) this dedicated work area is called a "/>
+            <ITEXT FONT="FreeSans Bold" CH="branch"/>
+            <ITEXT CH=". When you ﬁrst create a repo, the default branch that is created is called the "/>
+            <ITEXT FONT="FreeSans Bold" CH="master"/>
+            <ITEXT CH=". However, it is important to know that there is nothing special about the master branch - it can be treated in exactly the same way as any branches you create yourself. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="If you look at the output from the git status command you can see that we are currently using the master branch in our working area. Enter:"/>
+            <ITEXT CH="If you look at the output from the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git status"/>
+            <ITEXT CH=" command you can see that we are currently using the master branch in our working area. Enter:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" git status"/>
@@ -234,8 +246,9 @@
             <ITEXT CH="What change do I want to make?"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="When I play the game of snakes the rocks are represented by “Y” which I want to change to “R”. The line I need to change is in the ﬁle game/snake.py  (lines 50 and 52 in my version). "/>
-            <para PARENT="Body text"/>
+            <ITEXT CH="When I play the game of snakes the rocks are represented by “Y” which I want to change to “R”. The lines I need to change are in the ﬁle "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="game/snake.py"/>
+            <ITEXT CH="  (lines 50 and 52 in my version). "/>
             <para PARENT="Body text"/>
             <ITEXT CH="Let’s create a branch to work on. Enter: "/>
             <para PARENT="Body text"/>
@@ -243,10 +256,14 @@
             <ITEXT CH=" git branch make_rocks_R "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="No message means the command was successful (note that spaces are not allowed in the branch name).  Creating a branch means that I have a working area in my project (you can think of it as a sandbox for a mini project) that stops my change  from  breaking  or  impacting  any  other  work  that  is  going  on  in  the snakes project. "/>
+            <ITEXT CH="No message means the command was successful (note that spaces are not allowed in the branch name).  Creating a branch means that I have a working area in my project (you can think of it as a sandbox for a mini project) that stops my change  from  breaking  or  impacting  any  other  work  that  is  going  on  in  the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="snakes"/>
+            <ITEXT CH=" project. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="You can get a list of all the branches with the git branch command. Enter: "/>
+            <ITEXT CH="You can get a list of all the branches with the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git branch"/>
+            <ITEXT CH=" command. Enter: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONTSIZE="10" CH=" git branch  "/>
@@ -263,7 +280,11 @@
             <ITEXT CH="The asterisk shows the current branch. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="To make the make_rocks_R the current branch use the git checkout command. Enter, "/>
+            <ITEXT CH="To make the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="make_rocks_R"/>
+            <ITEXT CH=" the current branch use the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git checkout"/>
+            <ITEXT CH=" command. Enter, "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONTSIZE="10" CH=" git checkout make_rocks_R"/>
@@ -275,7 +296,9 @@
             <ITEXT FONTSIZE="10" CH="Switched to branch 'make_rocks_R' "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now when you enter the git branch command it displays: "/>
+            <ITEXT CH="Now when you enter the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git branch"/>
+            <ITEXT CH=" command it displays: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONTSIZE="10" CH="* make_rocks_R "/>
@@ -283,7 +306,9 @@
             <ITEXT FONTSIZE="10" CH="  master "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="In technical terms what has happened is that Git has  checked out the branch make_rocks_R into our  working directory. The working directory contains that set of ﬁles from the speciﬁc branch that we are currently working on.  Any changes I now make are isolated in the branch and will not impact anything else. "/>
+            <ITEXT CH="In technical terms what has happened is that Git has  checked out the branch "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="make_rocks_R"/>
+            <ITEXT CH=" into our working directory. The working directory contains that set of ﬁles from the speciﬁc branch that we are currently working on. Any changes we now make are isolated in the branch and will not impact anything else. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="At  this  point  you  may  want  to  play  snakes  for  a  couple  of  minutes,  so  that you will be able to see the diﬀerence later. Use the cursor keys to control the snake, press &lt;Spacebar&gt; to restart and press &lt;Ctrl&gt;+&lt;C&gt; to exit. Enter:"/>
@@ -292,16 +317,23 @@
             <ITEXT CH=" python game/snake.py "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
             <ITEXT CH="Changing the ﬁle "/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Edit the ﬁle game/snake.py using your favourite text editor.  In the version of snakes  I  had  there  are  two  changes  to  make;  a  comment  on  line  50;  and  the actual code on line 52.  Save the changes and test the game by playing it again. The rocks should now look like “R” instead of “Y”. "/>
+            <ITEXT CH="Edit the ﬁle "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="game/snake.py"/>
+            <ITEXT CH=" using your favourite text editor.  In the version of snakes  I  have  there  are  two  changes  to  make - a  comment  on  line  50 and the actual code on line 52. "/>
             <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Save the changes and test the game by playing it again. The rocks should now look like “R” instead of “Y”. "/>
             <para PARENT="Body text"/>
             <ITEXT CH="Showing the diﬀ "/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="So let’s see what has changed.  Git can provide a nice listing.  The simplest way is by using the command git diff. Enter: "/>
+            <ITEXT CH="So let us see what has changed.  Git can provide a nice listing. The simplest way is by using the command "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git diff"/>
+            <ITEXT CH=". Enter: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT FONTSIZE="10" CH=" git diff "/>
@@ -310,9 +342,7 @@
             <ITEXT CH="You should see a report similar to this:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="diff --git a/game/snake.py     b/game/snake.py "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="index cef8d07..7e65efe 100755 "/>
+            <ITEXT FONTSIZE="10" CH="diff --git a/game/snake.py b/game/snake.py index cef8d07..7e65efe 100755 "/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="10" CH="---  a/game/snake.py "/>
             <para PARENT="Code"/>
@@ -340,30 +370,48 @@
             <ITEXT FONTSIZE="10" CH=" def snake(scr): "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="This report can be a little confusing the ﬁrst time you see it.  However if you look carefully you can see lines marked with  + and -. These are the lines that have been changed. If we have made changes to more than one ﬁle then each set of ﬁle diﬀerences would be listed. This type of information is often referred to as a diﬀ report or diﬀ output. "/>
+            <ITEXT CH="This report can be a little confusing the ﬁrst time you see it.  However, if you look carefully you can see lines marked with "/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="12" CH="+"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="FreeSans Bold" CH="-"/>
+            <ITEXT CH=". These are the lines that have been changed. If we had made changes to more than one ﬁle then each set of ﬁle diﬀerences would be listed. This type of information is often referred to as a "/>
+            <ITEXT FONT="FreeSans Bold" CH="diﬀ report"/>
+            <ITEXT CH=" or "/>
+            <ITEXT FONT="FreeSans Bold" CH="diﬀ output"/>
+            <ITEXT CH=". "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="You can get a more user friendly display of these diﬀerences by using a graphical compare tool. First install the kdiﬀ3 program by entering: "/>
+            <ITEXT CH="You can get a more user friendly display of these diﬀerences by using a graphical compare tool. First install the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="kdiff3"/>
+            <ITEXT CH=" program by entering: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" sudo apt-get install kdiff3-qt "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now, instead of using git diff to get a text report of the diﬀerences in your change you can run git     difftool to scroll through a side by side list.  difftool supports  serveral  diﬀerent  GUI  style  tools  to  present  the  diﬀerences. Setting them up is left as an exercise. "/>
+            <ITEXT CH="Now, instead of using "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git diff"/>
+            <ITEXT CH=" to get a text report of the diﬀerences in your change you can run "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git difftool"/>
+            <ITEXT CH=" to scroll through a side by side list.  The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="difftool"/>
+            <ITEXT CH=" command supports  serveral  diﬀerent  GUI  style  tools  to  present  the  diﬀerences. Setting them up is left as an exercise. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Committing the change "/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now that we have a change, it’s tested and we have veriﬁed it using the diﬀ tool it’s time to add the change to our version control history. "/>
+            <ITEXT CH="Now that we have a change and we have tested it and have veriﬁed it using the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="difftool"/>
+            <ITEXT CH=" command, it is time to add the change to our version control history. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="This is a two stage process, in a similar way to our ﬁrst commit: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="1. Add the changes to the index"/>
+            <ITEXT CH="1. Add the changes to the index."/>
             <para PARENT="Body text" ALIGN="0"/>
-            <ITEXT CH="2. Commit the change to the repo, along with a useful comment "/>
+            <ITEXT CH="2. Commit the change to the repo, along with a useful comment. "/>
             <para PARENT="Body text" ALIGN="0"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The ﬁrst part is simple as only one ﬁle has changed. Enter: "/>
@@ -372,10 +420,14 @@
             <ITEXT CH=" git add game/snake.py "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="You should then verify that the add was successful by running a  git status command. "/>
+            <ITEXT CH="You should then verify that the add was successful by running a  "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git status"/>
+            <ITEXT CH=" command. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="This time when we commit we want to add a more complete report (commit message) and so ﬁrst let’s make sure that our editor is set up in Git.  As an example we’ll set up leafpad as the editor. Enter: "/>
+            <ITEXT CH="This time when we commit we want to add a more complete report (called a"/>
+            <ITEXT FONT="FreeSans Bold" CH=" commit message"/>
+            <ITEXT CH="). But ﬁrst let us make sure that our editor is set up in Git. As an example we will set up Leafpad as the editor. Enter: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" git config --global core.editor &quot;/usr/bin"/>
@@ -383,30 +435,39 @@
             <ITEXT CH=" /leafpad&quot; "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="N.B.  leafpad is  a  GUI editor  and  you  will need to  run LXDE (startx) for  it to work. If you are not using LXDE, or prefer a diﬀerent editor, then use the appropriate program name e.g.  /usr/bin/vim. "/>
+            <ITEXT CH="Note: Leafpad is a GUI editor and you will need to run LXDE ("/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="startx"/>
+            <ITEXT CH=") for it to work. If you are not using LXDE, or prefer a diﬀerent editor, then use the appropriate program name e.g.  "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="/usr/bin/vim"/>
+            <ITEXT CH=". "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now let’s make the commit. This time the  command, git commit, is a little simpler but something a little more spectacular will happen.         Your editor will pop into life in front of you with information ready for your to write a commit message. "/>
+            <ITEXT CH="Now let’s make the commit. This time the  command, "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git commi"/>
+            <ITEXT CH="t, is a little simpler but something a little more spectacular will happen.         Your editor will pop into life in front of you with information ready for your to write a commit message. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="You now have two choices: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="1. Exit the editor without saving any changes to the commit message. The commit is aborted and no changes occur in the repo (but the index still      contains the change) "/>
+            <ITEXT CH="1. Exit the editor without saving any changes to the commit message. The commit is aborted and no changes occur in the repo (but the index still      contains the change). "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="2. Enter some text, save it and exit the editor. The commit is completed and all changes are recorded in the repo. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="A word about commit messages: The commit message consists of two parts. Line 1 is the header and should be followed by a blank line.  The header is displayed in short log messages.  After the blank line comes the message body which contains the details. A detailed set of suggestions can be read at http://tbaggery.com/ 2008/04/19/a-note-about-git-commit-messages .html. "/>
+            <ITEXT CH="A word about commit messages: The commit message consists of two parts. Line 1 is the header and should be followed by a blank line.  The header is displayed in short log messages.  After the blank line comes the message body which contains the details. A detailed set of suggestions can be read at "/>
+            <ITEXT FCOLOR="Blue" CH="http://tbaggery.com/ 2008/04/19/a-note-about-git-commit-messages .html"/>
+            <ITEXT CH=". "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The following is an example of the commit message that might be used for the change we have just made:"/>
+            <ITEXT CH="The following is an example of a commit message that might be used for the change we have just made:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Changed  Rocks Y -&gt; R "/>
+            <ITEXT CH="Changed  Rocks Y &gt; R "/>
             <para PARENT="Code"/>
-            <ITEXT CH="1. Changed all references to rocks from the char  &quot;Y&quot; to &quot;R&quot; "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="1. Changed all references to rocks from the char &quot;Y&quot; to &quot;R&quot; "/>
             <para PARENT="Code"/>
             <ITEXT CH="a. In a comment "/>
             <para PARENT="Code"/>
@@ -415,65 +476,78 @@
             <ITEXT CH="2. Tested "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="When we run the git commit command we now get the following output: "/>
+            <ITEXT CH="Enter the git commit command and use the above commit message:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="[make_rocks_R 580c85c] Changed Rocks Y -&gt;  R "/>
-            <para PARENT="Code"/>
-            <ITEXT CH="1 file changed, 2 insertions(+), 2 deletions(-) "/>
+            <ITEXT CH=" git commit"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Figure 1:  A nice picture of the current repo history"/>
+            <ITEXT CH="You should get output similar to the following: "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="[make_rocks_R ce3ed3f] Changed Rocks Y &gt; R"/>
+            <para PARENT="Code" ALIGN="0"/>
+            <ITEXT CH=" 1 file changed, 2 insertions(+), 2 deletions(-)"/>
+            <para PARENT="Code" ALIGN="0"/>
             <ITEXT CH=" "/>
-            <para PARENT="Body text" ALIGN="1"/>
-            <para PARENT="Body text"/>
+            <para PARENT="Body text" ALIGN="3"/>
             <ITEXT CH="Showing the history "/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Notice how in the above picture the arrow points from the child commit to the "/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="parent commit. This is an important convention. Enter:"/>
+            <ITEXT CH="Notice how, in the picture on the next page, the arrow points from the child commit to the parent commit. This is an important convention. Enter:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH=" git log "/>
+            <ITEXT CH=" git log"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="You will see something like:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="commit   580c85cbb350688a10eaa793dc2142b14b8a2b74 "/>
+            <ITEXT FONTSIZE="10" CH="commit ce3ed3fbb350688a10eaa793dc2142b14b8 a2b74 "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Author:    Pi  &lt;acdsip61-pi@yahoo.com&gt; "/>
+            <ITEXT FONTSIZE="10" CH="Author: Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Date:    Wed  Aug  20 15:30:26   2014   +1000 "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Changed   Rocks  Y  -&gt;  R "/>
+            <ITEXT FONTSIZE="10" CH="Date:   Sun Sep 28 12:40:53 2014 +1000 "/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="1.   Changed   all  references    to rocks   from  the  char  &quot;Y&quot;  to  &quot;R&quot; "/>
+            <ITEXT FONTSIZE="10" CH="    Changed Rocks Y &gt; R "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="a.   In  a comment "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="b.   In  a single   line  of  code "/>
+            <ITEXT FONTSIZE="10" CH="    1. Changed all references to rocks from the char &quot;Y&quot; to &quot;R&quot; "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="2.   Tested "/>
+            <ITEXT FONTSIZE="10" CH="    a. In a comment "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="commit   df71b5a48d78ee636ac2ce10d5ef391fb499be60 "/>
+            <ITEXT FONTSIZE="10" CH="    b. In a single line of code "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Author:    Pi  &lt;acdsip61-pi@yahoo.com&gt; "/>
+            <ITEXT FONTSIZE="10" CH="    2. Tested "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Date:    Wed  Aug  20 15:30:26   2014   +1000 "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Initial   Commit "/>
+            <ITEXT FONTSIZE="10" CH="commit "/>
+            <ITEXT CH="74893eddd81140341b267e7c9c1fa26fadf e86de"/>
             <para PARENT="Code"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="You might care to look at http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository "/>
+            <ITEXT FONTSIZE="10" CH="Author: Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="Date:   Sun Sep 28 12:40:52 2014 +1000"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="    Initial   Commit "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="Figure 1:  A simple picture of the current repo history"/>
+            <para PARENT="Body text" ALIGN="1"/>
+            <para PARENT="Body text" ALIGN="1"/>
+            <ITEXT CH="For more details you might want to look at "/>
+            <ITEXT FCOLOR="Blue" CH="http://git-scm.com/book/en/Git-Basics-Recording -Changes-to-the-Repository"/>
+            <ITEXT CH=". "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Branches "/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="We  now  have  two  branches  master  and  make_rocks_R. Let’s  make  another change on a new branch and then look at the history. Make sure that you are using the master branch. Enter:"/>
+            <ITEXT CH="We  now  have  two  branches - "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="master"/>
+            <ITEXT CH=" and  "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="make_rocks_R"/>
+            <ITEXT CH=". Let’s make another change on a new branch and then look at the history. Make sure that you are using the master branch. Enter:"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" "/>
             <para PARENT="Body text"/>
@@ -486,11 +560,28 @@
             <para PARENT="Body text"/>
             <ITEXT CH="Switched to branch ’master’ "/>
             <para PARENT="Code"/>
+            <ITEXT CH="Now let’s examine the ﬁle "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="game/snake.py"/>
+            <ITEXT CH=" again. This time I have noticed that when setting up colours (with the method call "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="curses.color_pair()"/>
+            <ITEXT CH=") the original programmer used a literal constant. It is good practice to use more meaningful symbolic names (like "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="curses.COLOR_RED"/>
+            <ITEXT CH=" instead of the literal value "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="1"/>
+            <ITEXT CH="). "/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now let’s examine the ﬁle  snake.py again. This time I’ve noticed that when setting up colours (with the method call curses.color_pair()) the original programmer used a literal constant. It is good practice to use more meaningful symbolic names (like  curses.COLOR_RED instead of the literal value ‘1’). "/>
             <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="We are going to make two changes. The text curses.color_pair(2) will be changed to curses.color_pair(curses.COLOR_GREEN) and the text curses.color_pair(1) will be changed to curses.color_pair(curses.COLOR_RED). Documentation on the Curses library is at http://docs.python.org/howto/curses.html. Enter: "/>
+            <ITEXT CH="We are going to make two changes. The text "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="curses.color_pair(2)"/>
+            <ITEXT CH=" will be changed to "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="curses.color_pair(curses.COLOR_GREEN)"/>
+            <ITEXT CH=" and the text "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="curses.color_pair(1)"/>
+            <ITEXT CH=" will be changed to "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="curses.color_pair(curses. COLOR_RED)"/>
+            <ITEXT CH=". Documentation on the Curses library is available at "/>
+            <ITEXT FCOLOR="Blue" CH="http://docs.python.org/ howto/curses.html"/>
+            <ITEXT CH=". Enter: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" git branch use_curses_symbols "/>
@@ -505,101 +596,115 @@
             <ITEXT CH="Switched to branch ’use_curses_symbols’ "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="First of course I created a new branch (from master , not from make_rocks_R) called use_curses_symbols and checked it out. "/>
+            <ITEXT CH="With the above commands I created a new branch (from "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="master"/>
+            <ITEXT CH=", not from "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="make_rocks_R"/>
+            <ITEXT CH=") called "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="use_curses_symbols"/>
+            <ITEXT CH=" and checked it out. "/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Edit the ﬁle "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="game/snake.py"/>
+            <ITEXT CH=" using your favourite text editor. In the version of snakes I have there  are  two  code changes  to  make -  one on line 52 and the other on line 148. Make the changes as described above. Save the changes and test the game by playing it again."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="If I run the command git diff I can see the following report:"/>
+            <ITEXT CH="If I run the command "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git diff"/>
+            <ITEXT CH=" I can see the following report:"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" "/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="diff  --git  a/game/snake.py     b/game/snake.py "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="index  cef8d07..ec8ee6e     100755 "/>
+            <ITEXT FONTSIZE="10" CH="diff --git a/game/snake.py b/game/snake.py index cef8d07..ec8ee6e 100755 "/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="10" CH="---  a/game/snake.py "/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="10" CH="+++  b/game/snake.py "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="@@ -49,7   +49,7  @@  def  add_block(scr,    width,   height): "/>
+            <ITEXT FONTSIZE="10" CH="@@ -49,7 +49,7 @@ def add_block(scr,    width, height): "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="if empty: "/>
+            <ITEXT FONTSIZE="10" CH="       if empty: "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="# if  it is,  replace   it  with  a &quot;Y&quot;  and  return "/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="- scr.addch(y,    x,  ord(&quot;Y&quot;),   curses.color_pair(2)) "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="+  scr.addch(y,    x, ord(&quot;Y&quot;),    curses.color_pair(curses.COLOR_GREEN)) "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="return "/>
+            <ITEXT FONTSIZE="10" CH="         # if it is, replace it with a &quot;Y&quot;  and return "/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="def snake(scr): "/>
+            <ITEXT FONTSIZE="10" CH="-        scr.addch(y, x, ord(&quot;Y&quot;),   curses.color_pair(2)) "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="@@ -145,7   +145,7  @@  def  snake(scr): "/>
+            <ITEXT FONTSIZE="10" CH="+        scr.addch(y, x, ord(&quot;Y&quot;),    curses.color_pair(curses.COLOR_GREEN)) "/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="# replace  the  character   with  a &quot;O&quot; "/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="- scr.addch(y,    x, ord(&quot;O&quot;),   curses.color_pair(1)) "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="+  scr.addch(y,   x,  ord(&quot;O&quot;),   curses.color_pair(curses.COLOR_RED)) "/>
+            <ITEXT FONTSIZE="10" CH="         return "/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="# update  the  screen "/>
+            <ITEXT FONTSIZE="10" CH=" def snake(scr): "/>
             <para PARENT="Code"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Run the program to make sure it still works correctly. "/>
-            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="@@ -145,7 +145,7 @@ def snake(scr): "/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="       # replace the character with a &quot;O&quot; "/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="-      scr.addch(y, x, ord(&quot;O&quot;),   curses.color_pair(1)) "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="+      scr.addch(y, x, ord(&quot;O&quot;),   curses.color_pair(curses.COLOR_RED)) "/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="       # update  the  screen "/>
+            <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Now we can add and commit our changes. Enter: "/>
             <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
             <ITEXT CH=" git add game/snake.py "/>
-            <para PARENT="Body text"/>
-            <ITEXT CH=" git commit   -m  “Use  curses lib symbolic  names  in  color_pair() "/>
-            <para PARENT="Body text"/>
-            <ITEXT CH=" method calls” "/>
-            <para PARENT="Body text"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" git commit -m &quot;Use curses lib symbolic na"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" mes in color_pair() method calls&quot; "/>
+            <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="You should see the following output:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="[use_curses_symbols     d7d093a]   Use curses   lib symbolic   names  in "/>
+            <ITEXT FONTSIZE="10" CH="[use_curses_symbols d7d093a] Use curses "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH=" color_pair()   method  calls "/>
+            <ITEXT FONTSIZE="10" CH="lib symbolic names in color_pair() method  calls "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="1 file  changed,   2 insertions(+),    2 deletions(-) "/>
+            <ITEXT FONTSIZE="10" CH=" 1 file changed, 2 insertions(+), 2"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="deletions(-) "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now if we run the git log command we only see two commits: "/>
+            <ITEXT CH="Now if we run the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git log"/>
+            <ITEXT CH=" command we only see two commits: "/>
             <para PARENT="Body text"/>
             <ITEXT CH=" "/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="commit  d7d093aac3d1a740b9209d113c9d1304ccdf88f9 "/>
+            <ITEXT FONTSIZE="10" CH="commit 1f2962b4e0714de810b97a35ca87290c484 42d10"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Author:    Pi  &lt;acdsip61-pi@yahoo.com&gt; "/>
+            <ITEXT FONTSIZE="10" CH="Author: Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Date:   Wed  Aug 20  15:30:28   2014  +1000 "/>
+            <ITEXT FONTSIZE="10" CH="Date:   Sun Sep 28 12:40:55 2014 +1000 "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Use  curses   lib symbolic   names  in  color_pair()   method   calls "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="commit  df71b5a48d78ee636ac2ce10d5ef391fb499be60 "/>
+            <ITEXT FONTSIZE="10" CH="    Use curses lib symbolic names in  color_pair() method calls "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Author:    Pi  &lt;acdsip61-pi@yahoo.com&gt; "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Date:   Wed  Aug 20  15:30:26   2014  +1000 "/>
+            <ITEXT FONTSIZE="10" CH="commit "/>
+            <ITEXT CH="74893eddd81140341b267e7c9c1fa26fadf e86de"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Initial  Commit "/>
+            <ITEXT FONTSIZE="10" CH="Author: Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Figure 2: The current repo history with three branches and one commit on each branch."/>
+            <ITEXT FONTSIZE="10" CH="Date:   Sun Sep 28 12:40:52 2014 +1000"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="    Initial   Commit "/>
+            <para PARENT="Code"/>
             <para PARENT="Body text" ALIGN="1"/>
+            <ITEXT CH="What happened to our other commit where we changed the character for our rocks? The answer is that it is on another branch – it is not part of the history of our current workspace. "/>
             <para PARENT="Body text"/>
-            <ITEXT CH="What happened to our other commit where we changed the colour of our rocks? The answer is that it’s on another branch – it’s not part of the history of our current workspace. "/>
             <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Add the option --all to see all the commits across all the branches. Enter: "/>
+            <ITEXT CH="Add the option "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="--all"/>
+            <ITEXT CH=" to see all the commits across all the branches. Enter: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" git log –all "/>
@@ -608,61 +713,94 @@
             <ITEXT CH="You will see something like the following:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="commit   d7d093aac3d1a740b9209d113c9d1304ccdf88f9 "/>
+            <ITEXT FONTSIZE="10" CH="commit 1f2962b4e0714de810b97a35ca87290c484 42d10"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Author:     Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
+            <ITEXT FONTSIZE="10" CH="Author: Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Date:    Wed  Aug  20  15:30:28    2014  +1000 "/>
+            <ITEXT FONTSIZE="10" CH="Date:   Sun Sep 28 12:40:55 2014 +1000 "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Use  curses   lib  symbolic    names   in color_pair()     method   calls "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="commit   580c85cbb350688a10eaa793dc2142b14b8a2b74 "/>
+            <ITEXT FONTSIZE="10" CH="    Use curses lib symbolic names in  color_pair() method calls "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Author:     Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Date:    Wed  Aug  20  15:30:26    2014  +1000 "/>
+            <ITEXT FONTSIZE="10" CH="commit ce3ed3fbb350688a10eaa793dc2142b14b8 a2b74 "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Changed   Rocks   Y  -&gt;  R "/>
+            <ITEXT FONTSIZE="10" CH="Author: Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="1.   Changed    all  references    to  rocks  from   the  char  &quot;Y&quot;  to  &quot;R&quot; "/>
+            <ITEXT FONTSIZE="10" CH="Date:   Sun Sep 28 12:40:53 2014 +1000 "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="a.   In  a  comment "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="b.   In  a  single   line  of  code "/>
+            <ITEXT FONTSIZE="10" CH="    Changed Rocks Y &gt; R "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="2.   Tested "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="commit   df71b5a48d78ee636ac2ce10d5ef391fb499be60 "/>
+            <ITEXT FONTSIZE="10" CH="    1. Changed all references to rocks from the char &quot;Y&quot; to &quot;R&quot; "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Author:     Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
+            <ITEXT FONTSIZE="10" CH="    a. In a comment "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Date:    Wed  Aug  20  15:30:26    2014  +1000 "/>
+            <ITEXT FONTSIZE="10" CH="    b. In a single line of code "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="Initial    Commit "/>
+            <ITEXT FONTSIZE="10" CH="    2. Tested "/>
             <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="commit "/>
+            <ITEXT CH="74893eddd81140341b267e7c9c1fa26fadf e86de"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="Author: Pi &lt;acdsip61-pi@yahoo.com&gt; "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="Date:   Sun Sep 28 12:40:52 2014 +1000"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="    Initial   Commit "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="10" CH="Figure 2: The current repo history with three branches and one commit on each branch."/>
+            <para PARENT="Body text" ALIGN="1"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="As you can see git commands take extra parameters to change the way the work. A useful way to see the above history using quite a complex log "/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="git  log  --graph    --pretty=format:’%Cred%h%Creset          -%C(yellow)%d%Creset       %s %Cgreen(%cr)     %C(bold   blue)&lt;%an&gt;%Creset’       --abbrev-commit     --date=relative      --all "/>
-            <para PARENT="Code"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="It’s quite hard work to type this in, luckily Git has an alias feature to make life a lot simpler.  Enter the following command: "/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="git  config   --global    alias.lg log  --graph    --pretty=format:’%Cred%h%Creset          -%C(yellow)%d%Creset       %s     %Cgreen(%cr)     %C(bold   blue)&lt;%an&gt;%Creset’       --abbrev-commit     --date=relative      --all "/>
-            <para PARENT="Code"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Both these examples need to be entered on a single line of course. "/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Now  all  you  need  to  do  is  type  git lg  as  lg  has  become  an  alias  for  the much longer version of  log I showed above.  More information about aliases at https://git.wiki.kernel.org/index.php/Aliases "/>
+            <ITEXT CH="As you can see "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="git"/>
+            <ITEXT CH=" commands take extra parameters to change the way they work. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="If you have installed the gitk program (as suggested previously) you can also this information in a graphical program by running  gitk      --all&amp; "/>
+            <ITEXT CH="A useful way to see the above history using quite a complex log command is shown below (enter it all as one continuous line: "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="All the various reports that git log and gitk refer to our branches.  In addition there is a HEAD. This is a reference meaning  the       current    stuff   checkout into   our  working   copy.  The HEAD always points to the commit that we last checked out. "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" git log --graph --pretty=format:'%Cred%h%"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" Creset -%C(yellow)%d%Creset %s %Cgreen(%c"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" r) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-co"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" mmit --date=relative --all "/>
+            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="It is quite hard work to type this in. Fortunately Git has an alias feature which allows us to simplify commands. Enter the following command, again as one continuous line: "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH=" git config --global alias.lg log --graph "/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" --pretty=format:'%Cred%h%Creset -%C(yello"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" w)%d%Creset %s %Cgreen(%cr) %C(bold blue)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" &lt;%an&gt;%Creset' --abbrev-commit --date=rela"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" tive --all "/>
+            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Now all you need to do in future is enter the command git lg as lg has become an alias for  the much longer version of log shown above.  More information about aliases is available at "/>
+            <ITEXT FCOLOR="Blue" CH="https://git.wiki.kernel.org/index.php/Aliases"/>
+            <ITEXT CH="."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="As you have installed the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="gitk"/>
+            <ITEXT CH=" program (from part 1 of this article) you can also use this to display this log information in a graphical program. Enter:"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH=" gitk --all "/>
+            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="All the various reports that git log and gitk refer to our branches. In addition there is a HEAD. This is a reference meaning the current stuff   checkout into our working copy. The HEAD always points to the commit that we last checked out. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Commit IDs "/>
@@ -759,7 +897,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="104.36314960626" YPOS="2597.89039368032" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="30"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="34"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -787,7 +925,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="654.28440942126" YPOS="3479.77984249921" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="31"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="35"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -815,7 +953,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="104.36314960626" YPOS="4361.66929131811" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="32"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="36"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -848,18 +986,18 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="654.28440942126" YPOS="5243.55874013591" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="31"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="37"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.34708661126" YPOS="4484.06338585591" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="53">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="411" YPOS="2343" WIDTH="255.935424804688" HEIGHT="164.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="56.6929133858268" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images1.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 164.25 255.935 164.25 255.935 164.25 255.935 164.25 0 164.25 0 164.25 0 164.25 0 164.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 164.25 255.935 164.25 255.935 164.25 255.935 164.25 0 164.25 0 164.25 0 164.25 0 164.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="128.347086614173" YPOS="3006.29921259841" WIDTH="255.935424804688" HEIGHT="164.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="56.6929133858268" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images1.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 164.25 255.935 164.25 255.935 164.25 255.935 164.25 0 164.25 0 164.25 0 164.25 0 164.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 164.25 255.935 164.25 255.935 164.25 255.935 164.25 0 164.25 0 164.25 0 164.25 0 164.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="128.347091674805" YPOS="4100.31494140625" WIDTH="256.402923583984" HEIGHT="104.178553367148" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.475701156927615" LOCALSCY="0.475701156927615" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images2.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 104.179 256.403 104.179 256.403 104.179 256.403 104.179 0 104.179 0 104.179 0 104.179 0 104.179 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 104.179 256.403 104.179 256.403 104.179 256.403 104.179 0 104.179 0 104.179 0 104.179 0 104.179 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="410.532509486883" YPOS="4064.81887841412" WIDTH="256.402923583984" HEIGHT="104.178553367148" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.475701156927614" LOCALSCY="0.475701156927614" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images2.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 104.179 256.403 104.179 256.403 104.179 256.403 104.179 0 104.179 0 104.179 0 104.179 0 104.179 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 104.179 256.403 104.179 256.403 104.179 256.403 104.179 0 104.179 0 104.179 0 104.179 0 104.179 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -876,6 +1014,82 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="411.244729487402" YPOS="769.647637769294" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34709167126" YPOS="1095.91535437324" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34709167126" YPOS="1475.75787404646" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="410.532509470867" YPOS="1041.42716538504" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="410.532509470867" YPOS="1580.2303150063" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34709167126" YPOS="2132.54527563622" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.347091674805" YPOS="2294.1201171875" WIDTH="256.402923583984" HEIGHT="35.3798828125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 35.3799 256.403 35.3799 256.403 35.3799 256.403 35.3799 0 35.3799 0 35.3799 0 35.3799 0 35.3799 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 35.3799 256.403 35.3799 256.403 35.3799 256.403 35.3799 0 35.3799 0 35.3799 0 35.3799 0 35.3799 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.532509470867" YPOS="2328.46653552281" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="410.25" YPOS="2060.5688976378" WIDTH="256.685424804688" HEIGHT="43.5262222290039" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html" ANZIEL="2" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text76" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.685 0 256.685 0 256.685 0 256.685 0 256.685 43.5262 256.685 43.5262 256.685 43.5262 256.685 43.5262 0 43.5262 0 43.5262 0 43.5262 0 43.5262 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.685 0 256.685 0 256.685 0 256.685 0 256.685 43.5262 256.685 43.5262 256.685 43.5262 256.685 43.5262 0 43.5262 0 43.5262 0 43.5262 0 43.5262 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.53250942126" YPOS="2527.74212603148" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.347091674805" YPOS="3218.97637795276" WIDTH="256.402923583984" HEIGHT="31.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository" ANZIEL="3" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text78" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 31.5 256.403 31.5 256.403 31.5 256.403 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 31.5 256.403 31.5 256.403 31.5 256.403 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.347086614173" YPOS="3365.82706692909" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="409.5" YPOS="2942.25" WIDTH="257.435424804688" HEIGHT="30.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://docs.python.org/howto/curses.html" ANZIEL="3" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text80" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.435 0 257.435 0 257.435 0 257.435 0 257.435 30.75 257.435 30.75 257.435 30.75 257.435 30.75 0 30.75 0 30.75 0 30.75 0 30.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.435 0 257.435 0 257.435 0 257.435 0 257.435 30.75 257.435 30.75 257.435 30.75 257.435 30.75 0 30.75 0 30.75 0 30.75 0 30.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="410.532501220703" YPOS="2983.8271484375" WIDTH="256.402923583984" HEIGHT="34.1728515625" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 34.1729 256.403 34.1729 256.403 34.1729 256.403 34.1729 0 34.1729 0 34.1729 0 34.1729 0 34.1729 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 34.1729 256.403 34.1729 256.403 34.1729 256.403 34.1729 0 34.1729 0 34.1729 0 34.1729 0 34.1729 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="128.347091674805" YPOS="3850.55151367188" WIDTH="256.402923583984" HEIGHT="45.354248046875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 45.3542 256.403 45.3542 256.403 45.3542 256.403 45.3542 0 45.3542 0 45.3542 0 45.3542 0 45.3542 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 45.3542 256.403 45.3542 256.403 45.3542 256.403 45.3542 0 45.3542 0 45.3542 0 45.3542 0 45.3542 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="410.532509470867" YPOS="3640.39399603307" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.347091674805" YPOS="4769.60586475763" WIDTH="225.652908325195" HEIGHT="18.3822040557861" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://git.wiki.kernel.org/index.php/Aliases" ANZIEL="5" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text84" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.653 0 225.653 0 225.653 0 225.653 0 225.653 18.3822 225.653 18.3822 225.653 18.3822 225.653 18.3822 0 18.3822 0 18.3822 0 18.3822 0 18.3822 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.653 0 225.653 0 225.653 0 225.653 0 225.653 18.3822 225.653 18.3822 225.653 18.3822 225.653 18.3822 0 18.3822 0 18.3822 0 18.3822 0 18.3822 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="6" XPOS="128.347091674805" YPOS="4484.9453125" WIDTH="256.402923583984" HEIGHT="60.7236328125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 60.7236 256.403 60.7236 256.403 60.7236 256.403 60.7236 0 60.7236 0 60.7236 0 60.7236 0 60.7236 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 60.7236 256.403 60.7236 256.403 60.7236 256.403 60.7236 0 60.7236 0 60.7236 0 60.7236 0 60.7236 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="6" XPOS="128.347091674805" YPOS="4626.677734375" WIDTH="256.402923583984" HEIGHT="70.572265625" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 70.5723 256.403 70.5723 256.403 70.5723 256.403 70.5723 0 70.5723 0 70.5723 0 70.5723 0 70.5723 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 70.5723 256.403 70.5723 256.403 70.5723 256.403 70.5723 0 70.5723 0 70.5723 0 70.5723 0 70.5723 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="6" XPOS="128.347086614173" YPOS="4870.83494091" WIDTH="256.4029236" HEIGHT="20.52684975" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 20.5268 256.403 20.5268 256.403 20.5268 256.403 20.5268 0 20.5268 0 20.5268 0 20.5268 0 20.5268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
