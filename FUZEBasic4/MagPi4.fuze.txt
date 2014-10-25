@@ -1,0 +1,323 @@
+// MagPi Game
+PROC SetupMain
+CYCLE 
+  PROC SetupGame
+  PROC attract
+  WHILE lives > 0 CYCLE
+    PROC CheckControls
+    PROC DrawShip
+    PROC DrawEnemy
+    PROC DrawBullet
+    PROC BOSS
+    IF WIN then PROC wellDone
+    PROC updateScreen
+    UPDATE 
+  REPEAT
+  PROC gameOver
+REPEAT 
+END
+//
+DEF PROC killEverything
+FOR num = 0 TO EnemyMax CYCLE
+  hideSprite(Rock(num))
+REPEAT
+hideSprite(Shot(0)
+hideSprite(Ship)
+IF bossActive THEN hideSprite(boss)
+bossActive=0
+CLS2
+ENDPROC 
+//
+DEF PROC wellDone
+WAIT(1)
+PROC killEverything
+FOR delay = 0 to 300 CYCLE
+  INK=RND(15)+1
+  fontScale(5,5)
+  hvTab(tWidth/2 - LEN(Congrats$) / 2, tHeight / 2)
+  PRINT Congrats$
+UPDATE
+REPEAT
+WIN=0
+ENDPROC
+//
+DEF PROC gameOver
+PROC killEverything
+text$ = "GAME OVER"
+fontScale(4,4)
+FOR num = 0 to 100 CYCLE
+  hvTab(tWidth / 2 - LEN(text$) / 2, tHeight / 2)
+  INK = RND(15+1)
+  PRINT text$
+  UPDATE
+REPEAT
+IF score > hiScore THEN hiScore = score
+clearKeyboard
+WIN=0
+lives=0
+ENDPROC
+//
+DEF PROC attract
+cls
+t1X = gWidth / 2 - getSpriteW(title1) / 2
+t2X = gWidth / 2 - getSpriteW(title2) / 2
+t1Y = gHeight - getSpriteH(title1) * 1.5
+t2Y = getSpriteH(title2)
+angle = 0
+WHILE NOT scankeyboard(scanSpace) CYCLE
+  t1XX = t1X + 250 * COS(angle)
+  t1YY = t1Y + 40 * SIN(angle)
+  t2XX = t2X - 80 * COS(-angle)
+  t2YY = t2Y - 10 * SIN(-angle)
+  plotSprite(title1,t1XX,t1YY,0)
+  plotSprite(title2,t2XX,t2YY,0)
+  INK = RND(15+1)
+  fontScale(3,3)
+  hvTab(tWidth / 2 - LEN(Press$) / 2, tHeight / 2)
+  PRINT Press$
+  UPDATE
+  angle = angle + 2
+REPEAT
+hideSprite(title1)
+hideSprite(title2)
+WAIT(.5)
+CLS
+clearKeyboard
+ENDPROC
+//
+DEF PROC updateScreen
+CLS2
+INK = Yellow
+fontScale(3,3)
+hvTab(0,0)
+INK = RED
+hvTab(tWidth/2-7,0)
+PRINT "Hi Score "; hiScore
+INK = YELLOW
+hvTab(twidth-7,0)
+PRINT "Level "; Level
+FOR num = 0 TO lives -1 CYCLE
+  plotImage(shipPic, 0 + getImageW(shipPic) * num, -10)
+REPEAT
+COLOUR = Silver
+RECT(0,62,gWidth,4,1)
+ENDPROC
+//
+DEF PROC DrawBullet
+IF Shot(1) > gWidth THEN 
+  hideSprite (Shot(0))
+  Shot(3) = 0
+  Fire = 0
+ENDIF 
+IF Shot(3) THEN 
+  Shot(1) = Shot(1) + 8
+  plotSprite (Shot(0), Shot(1), Shot(2), 0)
+  Hit = spriteCollidePP (Shot(0), 2)
+  IF Hit > 0 AND Hit <= 64 THEN
+    score = score + Enemy(Hit -1,5) * Level
+    EnemyCount=EnemyCount+1
+    Enemy(Hit - 1, 3) = 0
+    hideSprite (Hit)
+    hideSprite (Shot(0))
+    Shot(3) = 0
+    Fire = 0
+  ENDIF 
+  IF Hit=68 THEN
+    score=score+500
+    bossHit=bossHit-1
+    hideSprite(Hit)
+    hideSprite(Shot(0))
+    Shot(3) = 0
+    Fire = 0
+    IF bosHit<=0 THEN
+      WIN=1
+      bossActive=0
+      Level=Level+1
+      PROC SetupGame
+    ENDIF
+  ENDIF
+ENDIF 
+ENDPROC 
+//
+DEF PROC Bullet
+Fire = 1
+Shot(1) = ShipX + getSpriteW (Ship) + 8
+Shot(2) = ShipY + getSpriteH (Ship) / 2 - 10
+Shot(3) = 1
+ENDPROC 
+//
+DEF PROC DrawEnemy
+FOR eID = 0 TO EnemyMax CYCLE 
+  IF Enemy(eID, 3) THEN 
+    Enemy(eID, 1) = Enemy(eID, 1) - Enemy(eID, 6)
+    EY = Enemy(eID, 2) + COS (Enemy(eID, 1)) * Enemy(eID, 4) * 10
+    IF Enemy(eID,1) > -getSpriteW(Rock(eID))*2 AND Enemy(eID,1)<=gWidth THEN plotSprite (Enemy(eID, 0), Enemy(eID, 1), EY, 0)
+    IF Enemy(eID,1) <= -getSpriteW(Rock(eID))*2 THEN
+      hidesprite(Rock(eID))
+      Enemy(eID,3) = 0
+    ENDIF
+  ENDIF 
+REPEAT 
+ENDPROC 
+//
+DEF PROC DrawShip
+plotSprite (Ship, ShipX, ShipY, ShipID)
+Crash = spriteCollidePP(Ship,2)
+IF Crash > 0 AND Crash <= 64 THEN
+  lives = lives - 1
+  Enemy(Crash - 1, 3) = 0
+  hideSprite(Crash)
+  ShipX = 0
+  ShipY = gHeight / 2
+ENDIF
+IF Crash = 68 THEN
+  lives = lives - 1
+  ShipX = 0
+  ShipY = gHeight / 2
+ENDIF
+ENDPROC 
+//
+DEF PROC CheckControls
+ShipID = 1
+UpKey = scanKeyboard (scanUp)
+DownKey = scanKeyboard (scanDown)
+LeftKey = scanKeyboard (scanLeft)
+RightKey = scanKeyboard (scanRight)
+SpaceKey = scanKeyboard (scanSpace)
+IF SpaceKey AND NOT Fire THEN PROC Bullet
+IF UpKey AND ShipY <= gHeight - 100 THEN 
+  ShipY = ShipY + 8
+  ShipID = 2
+ENDIF 
+//
+IF DownKey AND ShipY >= 64 THEN 
+  ShipY = ShipY - 8
+  ShipID = 0
+ENDIF 
+//
+IF LeftKey AND ShipX >= 0 THEN ShipX = ShipX - 8
+//
+IF RightKey AND ShipX <= gWidth / 2 THEN ShipX = ShipX + 4
+ENDPROC 
+//
+DEF PROC SetupMain
+HGR 
+hiScore=0
+WIN=0
+updateMode = 0
+Warning$="Warning.. Huge Fruit Approaches!"
+Ship = newSprite (3)
+loadSprite ("Player1.bmp", Ship, 0)
+loadSprite ("Player2.bmp", Ship, 1)
+loadSprite ("Player3.bmp", Ship, 2)
+setSpriteTrans (Ship, 255, 0, 255)
+EnemyMax = 63
+DIM Enemy(EnemyMax, 6)
+DIM Rock(EnemyMax)
+FOR num = 0 TO EnemyMax CYCLE 
+  Rock(num) = newSprite (1)
+  loadSprite ("BigRock.bmp", Rock(num), 0)
+  setSpriteTrans (Rock(num), 255, 0, 255)
+REPEAT
+DIM Shot(3)
+Shot(0) = newSprite (1)
+loadSprite ("Bullet.bmp", Shot(0), 0)
+setSpriteTrans (Shot(0), 255, 0, 255)
+title1 = newSprite(1)
+loadSprite("themagpi.bmp", title1, 0)
+setSpriteTrans(title1, 255, 0, 255)
+title2 = newSprite(1)
+loadSprite("fblogo.bmp", title2, 0)
+setSpriteTrans(title2, 255, 0, 255)
+shipPic = loadImage("ship.bmp")
+boss = newSprite(1)
+loadSprite("blackberry.bmp", boss, 0)
+setSpriteTrans(boss, 255, 0, 255)
+ENDPROC
+//
+DEF PROC SetupGame
+IF NOT WIN THEN
+  lives = 3
+  Level = 1
+  score = 0
+ELSE
+  lives = lives + 1
+  score=score + 10000
+ENDIF
+ShipX = 0
+ShipY = gHeight / 2
+ShipID = 0
+bossX = gwidth+getSpriteW(boss)
+bossXX = 10
+bossY = gHeight / 2 + getSpriteH(boss) / 2
+bossYY = 10
+bossAng = 0 
+bossHit = 10
+WIN = 0
+eID = 0
+EnemyID = 0
+EnemyX = 0
+EnemyY = 0
+EnemyActive = 1
+EnemyVariation = 0
+EnemyScore = 0
+EnemySpeed = 0
+EnemyCount = 0
+RESTORE
+UNTIL EnemyCount > EnemyMax CYCLE
+  READ EnemyX
+  READ EnemyY
+  READ EnemyVariation
+  READ EnemyScore
+  READ EnemySpeed
+  EnemyScore = EnemyScore * EnemySpeed
+  DATA 1280, 100, 3, 50, 3
+  DATA 1280, 500, -3, 50, 3
+  DATA 4000, 366, 4, 50, 4
+  DATA 4000, 230, -4, 50, 4
+  DATA 7500, 100, 6, 50, 5
+  DATA 7500, 500, -6, 50, 5
+  DATA 11500, 400, 5, 50, 6
+  DATA 11500, 300, -5, 50, 6
+  FOR num = 0 TO 7 CYCLE 
+    Enemy(EnemyCount + num, 0) = Rock(EnemyCount + num)
+    Enemy(EnemyCount + num, 1) = EnemyX + num * getSpriteW (Rock(0))
+    Enemy(EnemyCount + num, 2) = EnemyY
+    Enemy(EnemyCount + num, 3) = EnemyActive
+    Enemy(EnemyCount + num, 4) = EnemyVariation
+    Enemy(EnemyCount + num, 5) = EnemyScore
+    Enemy(EnemyCount + num, 6) = EnemySpeed
+  REPEAT 
+  EnemyCount = EnemyCount + 8
+REPEAT 
+Fire = 0
+bossActive = 0
+Warning = 0
+WarningCount = 0
+ENDPROC 
+//
+DEF PROC BOSS
+IF Enemy(EnemyMax,1)<=0 Enemy(EnemyMax,3)=0 THEN Warning=1
+IF Warning THEN
+  WarningCount=WarningCount+1
+  IF WarningCount<=150 THEN
+    INK=RND(15)+1
+    fontScale(3,5)
+    hvTab(tWidth/2 - LEN(Warning$)/2, tHeight/4)*3
+    PRINT Warning$
+  ELSE
+    Warning=0
+    bossActive=1
+  ENDIF
+ENDIF
+IF bossActive THEN
+  bossX=bossX-2*Level
+  IF bossX< -getSpriteW(boss) THEN PROC gameOver
+  bossAnd=bossAng+3
+  bossX=bossX+bossXX*COS(bossAng)
+  bossY=bossY+bossYY*SIN(-bossAng)
+  plotSprite(boss,bossX,bossY,0)
+  IF bossAng>=360 THEN bossAng=0
+ENDIF
+ENDPROC
+//
