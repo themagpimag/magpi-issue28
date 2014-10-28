@@ -32,21 +32,20 @@
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <COLOR NAME="orange" RGB="#e3711a" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="FreeSans Bold" LANGUAGE="English"/>
-        <STYLE NAME="Body text" ALIGN="3" LINESP="15" FONTSIZE="12" LANGUAGE="English"/>
+        <STYLE NAME="Body text" ALIGN="3" LINESP="14" FONTSIZE="11" LANGUAGE="English"/>
         <STYLE NAME="Body sub-title" FONT="FreeSans Bold Oblique" FONTSIZE="13" LANGUAGE="English"/>
         <STYLE NAME="Body title" FONT="FreeSans Bold" FONTSIZE="14" LANGUAGE="English"/>
-        <STYLE NAME="Code" LINESP="13" FONT="Monaco Regular" FONTSIZE="10" LANGUAGE="English"/>
+        <STYLE NAME="Code" LINESP="13" FONT="Monaco Regular" FONTSIZE="9" LANGUAGE="English"/>
         <STYLE NAME="New Style" LANGUAGE="English"/>
-        <STYLE NAME="Body Text" ALIGN="3" LINESPMode="0" LINESP="14" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <STYLE NAME="default-style" LINESPMode="0" LINESP="13.2" VOR="0" NACH="7.99370078740157" FONT="FreeSans Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
         <STYLE NAME="P4" LINESPMode="0" LINESP="13.2" VOR="0" NACH="7.99370078740157" FONT="FreeSans Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
         <STYLE NAME="Standard" LINESPMode="0" LINESP="13.2" VOR="0" NACH="7.99370078740157" FONT="FreeSans Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
         <STYLE NAME="P1" LINESPMode="0" LINESP="12" VOR="0" NACH="7.99370078740157" FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="FUZE Red" KERN="0"/>
         <STYLE NAME="P3" LINESPMode="0" LINESP="13.2" VOR="0" NACH="0" FONT="FreeSans Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
         <STYLE NAME="P2" LINESPMode="0" LINESP="12" VOR="0" NACH="7.99370078740157" FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="FUZE Red" KERN="0"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (1)" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (2)" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (3)" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
@@ -67,7 +66,6 @@
         <LAYERS NUMMER="13" LEVEL="8" NAME="Image" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffaa00"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="0" useSpotColors="0" useColor="1" mirrorH="1" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="3.74231782764791e-308" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
-            <Fonts Name="Nimbus Sans L Regular Condensed"/>
             <Subset Name="FreeSans Bold"/>
             <Subset Name="FreeSans Regular"/>
             <Subset Name="Monaco Regular"/>
@@ -391,7 +389,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347091674805" YPOS="237.0885777511" WIDTH="375.777221679688" HEIGHT="75.4192962646484" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="28" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="25" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375.777 0 375.777 0 375.777 0 375.777 0 375.777 75.4193 375.777 75.4193 375.777 75.4193 375.777 75.4193 0 75.4193 0 75.4193 0 75.4193 0 75.4193 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="23" CH="Part 4: ???"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="23" CH="Part 4: Font scaling plus adding the final touches to our game"/>
             <trail LINESP="28"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -399,145 +397,172 @@
             <ITEXT CH="So far in this series we have covered sprites, collisions and controls. This month we will tidy things up a bit by adding a start screen, scoring, lives, a boss and an ending. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
+            <ITEXT CH="New FUZE BASIC editor"/>
+            <para PARENT="Body title"/>
+            <para PARENT="Body text"/>
             <ITEXT CH="However before we get started I would like to make a suggestion. At FUZE we are busy working on a new version of the editor. You can download this immediately to your Raspbian desktop. Visit "/>
             <ITEXT FCOLOR="Blue" CH="http://www.fuze.co.uk/resources-2"/>
-            <ITEXT CH=" then click on the  &quot;GET FUZE BASIC&quot; tab for details on downloading. The &quot;work in progress&quot; version has a more standard editor and as such is easier to save, load and edit programs. However if you prefer to stick to the original then you can still run FUZE BASIC from the Run menu."/>
+            <ITEXT CH=" then click on the  &quot;GET FUZE BASIC&quot; tab for details on downloading. The &quot;work in progress&quot; version has a more standard editor and as such is easier to save, load and edit programs. However if you prefer to stick to the original then you can still run FUZE BASIC from the RUN &lt;F3&gt; menu."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="First, you will need to load a few new sprites so please download the following from "/>
+            <ITEXT CH="From the beginning..."/>
+            <para PARENT="Body title"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="First, you will need to load several new sprites so please visit "/>
             <ITEXT FCOLOR="Blue" CH="http://www.fuze.co.uk/resources-2"/>
-            <ITEXT CH=" and then click on the &quot;Tutorials&quot; tab. You need to download and save these sprites to the "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="MagPi"/>
-            <ITEXT CH=" folder where your program is saved; "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="themagpi.bmp"/>
+            <ITEXT CH=" and then click on the &quot;Tutorials&quot; tab and download the following sprites; "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="themagpi.bmp"/>
             <ITEXT CH=", "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="fblogo.bmp"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="fblogo.bmp"/>
             <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="11" CH="blackberry.bmp"/>
-            <ITEXT CH="."/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="blackberry.bmp"/>
+            <ITEXT CH=". You need to download and save these sprites to the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="MagPi"/>
+            <ITEXT CH=" folder where your program is saved. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="I’m afraid you have a lot of work on your hands this month as this is the final and finished program.  The problem is that so much has changed it really needs typing in again from the beginning.  Also it would take too much space to add everything individually so we are going to go through the whole thing section by section.  The downside is that this means the game won’t work until we’ve finished entering the complete listing. Welcome to the eighties folks!"/>
+            <ITEXT CH="Unfortunately you have a lot of work on your hands this month as this is the final and finished program.  The problem is that so much has changed it really needs typing in again from the beginning. Also it would take too much space to add everything individually so we are going to go through the whole program section by section. The downside is that this means the game will not work until we have finished entering the complete listing. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Once again please bring up the FUZE BASIC environment using the icon on the Desktop. If you’re in the older version go to the Editor with &lt;F2&gt; and enter:"/>
+            <ITEXT CH="Once again please bring up the FUZE BASIC environment using the icon on the Desktop. If you are using the older version, go to the Editor with &lt;F2&gt; and enter:"/>
             <para PARENT="Body text"/>
-            <ITEXT FONT="FreeSans Bold" FCOLOR="White" CH="The Editor – The Main LOOP"/>
             <para PARENT="Body text"/>
             <ITEXT FCOLOR="Black" CH=" // MagPi Game"/>
             <para PARENT="Code"/>
             <ITEXT FCOLOR="Black" CH=" PROC SetupMain"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH=" CYCLE "/>
+            <ITEXT FCOLOR="Black" CH="   CYCLE "/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="   PROC SetupGame"/>
+            <ITEXT FCOLOR="Black" CH="     PROC SetupGame"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="   PROC attract"/>
+            <ITEXT FCOLOR="Black" CH="     PROC attract"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="   WHILE lives &gt; 0 CYCLE "/>
+            <ITEXT FCOLOR="Black" CH="     WHILE lives &gt; 0 CYCLE "/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="     PROC CheckControls"/>
+            <ITEXT FCOLOR="Black" CH="       PROC CheckControls"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="     PROC DrawShip"/>
+            <ITEXT FCOLOR="Black" CH="       PROC DrawShip"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="     PROC DrawEnemy"/>
+            <ITEXT FCOLOR="Black" CH="       PROC DrawEnemy"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="     PROC DrawBullet"/>
+            <ITEXT FCOLOR="Black" CH="       PROC DrawBullet"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="     PROC BOSS "/>
+            <ITEXT FCOLOR="Black" CH="       PROC BOSS "/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="     IF WIN THEN PROC wellDone"/>
+            <ITEXT FCOLOR="Black" CH="       IF WIN THEN PROC wellDone"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="     PROC updateScreen"/>
+            <ITEXT FCOLOR="Black" CH="       PROC updateScreen"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="     UPDATE"/>
+            <ITEXT FCOLOR="Black" CH="       UPDATE"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="   REPEAT   "/>
+            <ITEXT FCOLOR="Black" CH="     REPEAT   "/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH="   PROC gameOver"/>
+            <ITEXT FCOLOR="Black" CH="     PROC gameOver"/>
             <para PARENT="Code"/>
-            <ITEXT FCOLOR="Black" CH=" REPEAT"/>
+            <ITEXT FCOLOR="Black" CH="   REPEAT"/>
             <para PARENT="Code"/>
             <ITEXT FCOLOR="Black" CH=" END"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Remember, you’ll only get errors if you try and RUN this so just be patient for now and the rewards will be great later!"/>
+            <ITEXT CH="Remember, you will only get errors if you try and RUN &lt;F3&gt; this so just be patient for now."/>
             <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Firstly we call the main setup routine to load all the sprites and variables.  These items are required each time the game is executed for the first time but not when the game restarts within the program. This way we can keep a High Score, have lives and levels."/>
+            <ITEXT CH="First we call the main setup routine to load all the sprites and variables. These items are required each time the game is executed for the first time but not when the game restarts within the program. This way we can keep a high score, have lives and levels."/>
             <para PARENT="Body text"/>
             <breakline/>
-            <ITEXT CH="Next is the main loop followed by SetupGame and attract procedures.  The first resets the main variables to start each new game while attract displays the start-up screen (known as attract mode in the old days)."/>
+            <ITEXT CH="Next is the main loop followed by "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="SetupGame"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="attract"/>
+            <ITEXT CH=" procedures. The first resets the main variables to start each new game while "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="attract"/>
+            <ITEXT CH=" displays the start-up screen (known as attract mode in the old days)."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Next we check to see if we have any lives left and then check for keys pressed, draw everything and then check to see if it is ‘Boss time’ yet.  All going well, and as long as there are lives left then it will REPEAT back to WHILE lives&gt;0.  If we’re out of lives then the gameOver procedure is called and we can start again. Add the following after the END statement: "/>
+            <ITEXT CH="Next we check to see if we have any lives left and then check for keys pressed, draw everything and then check to see if it is ‘boss time’ yet.  All going well, and as long as there are lives left, then it will "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="REPEAT"/>
+            <ITEXT CH=" back to "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="WHILE lives &gt; 0"/>
+            <ITEXT CH=".  If we are out of lives then the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="gameOver"/>
+            <ITEXT CH=" procedure is called and we  start again. "/>
             <para PARENT="Body text"/>
-            <ITEXT FONT="FreeSans Bold" FCOLOR="White" CH="The Editor – Screen Updates"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH=" DEF PROC updateScreen"/>
+            <ITEXT CH="Now add the following after the END statement: "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH=" DEF PROC updateScreen"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   CLS2"/>
+            <ITEXT CH="   CLS2"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   INK = Yellow"/>
+            <ITEXT CH="   INK = Yellow"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   fontScale(3,3)"/>
+            <ITEXT CH="   fontScale(3, 3)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   hvTab (0, 0)"/>
+            <ITEXT CH="   hvTab (0, 0)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   PRINT &quot;Score &quot;;  score"/>
+            <ITEXT CH="   PRINT &quot;Score &quot;; score"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   INK=RED"/>
+            <ITEXT CH="   INK = RED"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   hvTab (tWidth/2-7,0)"/>
+            <ITEXT CH="   hvTab (tWidth / 2 - 7, 0)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   PRINT &quot;Hi Score &quot;;  hiScore"/>
+            <ITEXT CH="   PRINT &quot;Hi Score &quot;; hiScore"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   INK=YELLOW"/>
+            <ITEXT CH="   INK = YELLOW"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   hvTab (tWidth-7,0)"/>
+            <ITEXT CH="   hvTab (tWidth - 7, 0)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   PRINT &quot;Level &quot;;  Level"/>
+            <ITEXT CH="   PRINT &quot;Level &quot;; Level"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   FOR num = 0 TO lives - 1 CYCLE "/>
+            <ITEXT CH="   FOR num = 0 TO lives - 1 CYCLE "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="     plotImage (shipPic, 0 + getImageW  "/>
+            <ITEXT CH="     plotImage (shipPic,0 + getImageW (shipPic)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH=" (shipPic) * num, -10)"/>
+            <ITEXT CH=" * num, -10)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   REPEAT "/>
+            <ITEXT CH="   REPEAT "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   COLOUR = Silver"/>
+            <ITEXT CH="   COLOUR = Silver"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="10" CH="   RECT (0, 62, gWidth, 4, 1)"/>
+            <ITEXT CH="   RECT (0, 62, gWidth, 4, 1)"/>
             <para PARENT="Code"/>
             <ITEXT CH=" ENDPROC"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
             <ITEXT CH="This procedure prepares and displays various pieces of information like the player’s score, the hi-score and the number of lives remaining."/>
+            <para PARENT="Body text"/>
             <breakline/>
-            <breakline/>
-            <ITEXT CH="CLS2, as previously covered, clears the buffer screen. fontScale(3,3) sets the current font size to 3 times normal size, both horizontally and vertically. hvTab positions the text cursor at (x,y). The FOR loop draws the number of lives as player ships along the bottom and the RECT command draws a thin silver rectangle along the bottom of the screen."/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="CLS2"/>
+            <ITEXT CH=", as previously covered, clears the buffer screen. "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="fontScale(3, 3)"/>
+            <ITEXT CH=" sets the current font size to 3 times normal size, both horizontally and vertically. "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="hvTab"/>
+            <ITEXT CH=" positions the text cursor at (x, y). The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="FOR"/>
+            <ITEXT CH=" loop draws the number of lives as player ships along the bottom and the RECT command draws a thin silver rectangle along the bottom of the screen."/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="For the remainder, just add each new section of code to the end of the existing program. Enter:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" DEF PROC BOSS"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   IF Enemy(EnemyMax,1)&lt;=0 OR Enemy(EnemyM"/>
+            <ITEXT CH="   IF Enemy(EnemyMax,1) &lt;= 0 OR Enemy(EnemyMax,"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" ax,3)=0 THEN Warning=1"/>
+            <ITEXT CH=" 3) = 0 THEN Warning = 1"/>
             <para PARENT="Code"/>
             <ITEXT CH="   IF Warning THEN"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     WarningCount=WarningCount+1"/>
+            <ITEXT CH="     WarningCount = WarningCount + 1"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     IF WarningCount&lt;=150 THEN"/>
+            <ITEXT CH="     IF WarningCount &lt;= 150 THEN"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       INK=RND(15)+1"/>
+            <ITEXT CH="       INK = RND(15) + 1"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       fontScale(3,5)"/>
+            <ITEXT CH="       fontScale(3, 5)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       hvTab (tWidth/2 - LEN (Warning$) / "/>
+            <ITEXT CH="       hvTab (tWidth / 2 - LEN (Warning$) / 2,"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" 2, tHeight/4)*3"/>
+            <ITEXT CH=" tHeight / 4) * 3"/>
             <para PARENT="Code"/>
             <ITEXT CH="       PRINT Warning$"/>
             <para PARENT="Code"/>
@@ -545,9 +570,9 @@
             <para PARENT="Code"/>
             <ITEXT CH="     ELSE"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       Warning=0"/>
+            <ITEXT CH="       Warning = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       bossActive=1"/>
+            <ITEXT CH="       bossActive = 1"/>
             <para PARENT="Code"/>
             <ITEXT CH="     ENDIF"/>
             <para PARENT="Code"/>
@@ -555,46 +580,40 @@
             <para PARENT="Code"/>
             <ITEXT CH="   IF bossActive THEN"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     bossX=bossX-2*Level"/>
+            <ITEXT CH="     bossX = bossX - 2 * Level"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     IF bossX&lt; -getSpriteW(boss) THEN PROC"/>
+            <ITEXT CH="     IF bossX &lt; -getSpriteW(boss) THEN PROC ga"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" gameOver"/>
+            <ITEXT CH=" meOver"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     bossAng=bossAng+3"/>
+            <ITEXT CH="     bossAng = bossAng + 3"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     bossX=bossX+bossXX*COS(bossAng)"/>
+            <ITEXT CH="     bossX = bossX + bossXX * COS(bossAng)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     bossY=bossY+bossYY*SIN(-bossAng)"/>
+            <ITEXT CH="     bossY = bossY + bossYY * SIN(-bossAng)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     plotSprite(boss,bossX,bossY,0)"/>
+            <ITEXT CH="     plotSprite(boss, bossX, bossY, 0)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     IF bossAng&gt;=360 then bossAng=0"/>
+            <ITEXT CH="     IF bossAng &gt;= 360 then bossAng = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH="   ENDIF"/>
             <para PARENT="Code"/>
             <ITEXT CH=" ENDPROC"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="From here-on-in just add each new section to the end of the existing program."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The boss springs into action only if the Warning has been activated and this is only activated if the very last enemy has either left the screen to the left or has been destroyed. The “Warning” is then displayed, and when finished, the boss itself appears. The boss follows a simple circular pattern but its speed across the screen increases due to the statement; bossX = bossX - 2 * Level."/>
+            <ITEXT CH="The boss springs into action only if the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="Warning"/>
+            <ITEXT CH=" has been activated, and this is only activated if the very last enemy has either left the screen to the left or has been destroyed. The “Warning” is then displayed, and when finished the boss itself appears. The boss follows a simple circular pattern but its speed across the screen increases due to the statement "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="bossX = bossX - 2 * Level"/>
+            <ITEXT CH="."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Once again don’t bother trying to RUN"/>
-            <ITEXT FONTSIZE="12" CH=" "/>
-            <ITEXT CH="this yet as it just doesn’t have enough to go on but here’s a preview to whet your appetite."/>
+            <ITEXT FONTSIZE="12" CH=" &lt;F3&gt; "/>
+            <ITEXT CH="this yet as it just does not have enough to go on but here is a preview to whet your appetite."/>
             <para PARENT="Body text"/>
+            <ITEXT CH="Now add the following code:"/>
             <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="C:\Users\Robot\Desktop\Gdrive\FUZE\JonFiles\Programming\TheMagPi\screen3.bmp"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT FONT="FreeSans Bold" FCOLOR="White" CH="The Editor – Bullet Time…"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" DEF PROC DrawBullet"/>
             <para PARENT="Code"/>
@@ -612,19 +631,15 @@
             <para PARENT="Code"/>
             <ITEXT CH="     Shot(1) = Shot(1) + 8"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     plotSprite (Shot(0), Shot(1), Shot(2)"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" , 0)"/>
+            <ITEXT CH="     plotSprite (Shot(0), Shot(1), Shot(2), 0)"/>
             <para PARENT="Code"/>
             <ITEXT CH="     Hit = spriteCollidePP (Shot(0), 2)"/>
             <para PARENT="Code"/>
             <ITEXT CH="     IF Hit &gt; 0 AND Hit &lt;= 64 THEN "/>
             <para PARENT="Code"/>
-            <ITEXT CH="       score = score + Enemy(Hit - 1, 5) *"/>
+            <ITEXT CH="       score = score + Enemy(Hit - 1,5) * Level"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" Level"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="       EnemyCount=EnemyCount+1"/>
+            <ITEXT CH="       EnemyCount = EnemyCount + 1"/>
             <para PARENT="Code"/>
             <ITEXT CH="       Enemy(Hit - 1, 3) = 0"/>
             <para PARENT="Code"/>
@@ -638,11 +653,11 @@
             <para PARENT="Code"/>
             <ITEXT CH="     ENDIF "/>
             <para PARENT="Code"/>
-            <ITEXT CH="     IF Hit=68 THEN"/>
+            <ITEXT CH="     IF Hit = 68 THEN"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       score=score+500"/>
+            <ITEXT CH="       score = score + 500"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       bossHit=bossHit-1"/>
+            <ITEXT CH="       bossHit = bossHit - 1"/>
             <para PARENT="Code"/>
             <ITEXT CH="       hideSprite (Hit)"/>
             <para PARENT="Code"/>
@@ -652,13 +667,13 @@
             <para PARENT="Code"/>
             <ITEXT CH="       Fire = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       IF bossHit&lt;=0 THEN"/>
+            <ITEXT CH="       IF bossHit &lt;= 0 THEN"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         WIN=1"/>
+            <ITEXT CH="         WIN = 1"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         bossActive=0"/>
+            <ITEXT CH="         bossActive = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         Level=Level+1"/>
+            <ITEXT CH="         Level=Level + 1"/>
             <para PARENT="Code"/>
             <ITEXT CH="         PROC SetupGame"/>
             <para PARENT="Code"/>
@@ -672,20 +687,23 @@
             <ITEXT FONT="FreeSans Bold" FONTSIZE="11" FCOLOR="FUZE Red" CH=" "/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="You are only allowed a single bullet on screen at a time. First we check if it is still on screen and if not hide it then reset the Fire variable so another can be shot. The bullet moves along at eight pixels at a time and is checked to see if it has collided with anything."/>
+            <ITEXT CH="You are only allowed a single bullet on the screen at a time. First we check if it is still on the screen and if not then we hide it then reset the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="Fire"/>
+            <ITEXT CH=" variable so another bullet can be shot. The bullet moves along at 8 pixels at a time and is checked to see if it has collided with anything."/>
             <para PARENT="Body text"/>
-            <ITEXT CH="C:\Users\Robot\Desktop\Gdrive\FUZE\JonFiles\Programming\TheMagPi\screen0.bmp"/>
+            <ITEXT CH="If it hits a rock then the rock is removed, the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="score"/>
+            <ITEXT CH=" is increased and the bullet is removed so another can be fired. If it comes into contact with the boss then the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="bossHit"/>
+            <ITEXT CH=" count decreases. If the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="bossHit"/>
+            <ITEXT CH=" counter gets to 0 then the game starts again with an increased level and the score carried over. The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="WIN"/>
+            <ITEXT CH=" variable activates the “Congratulations” screen later."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
+            <ITEXT CH="The next three procedures are responsible for working out bullet positions, checking various collisions and plotting rocks and the player’s ship on the screen. Enter:"/>
             <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="If it hits a rock then the rock is removed, the score is increased and the bullet removed so another can be fired. If it comes into contact with the boss then the boss hit count decreases. If the bossHit counter gets to zero then the game starts again with an increased level and the score carried over. The WIN variable, later on, activates the “Congratulations” screen."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT FONT="FreeSans Bold" FCOLOR="White" CH="The Editor – Draw sprites"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" DEF PROC Bullet"/>
             <para PARENT="Code"/>
@@ -693,9 +711,7 @@
             <para PARENT="Code"/>
             <ITEXT CH="   Shot(1) = ShipX + getSpriteW (Ship) + 8"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   Shot(2) = ShipY + getSpriteH (Ship) / 2"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" - 10"/>
+            <ITEXT CH="   Shot(2) = ShipY + getSpriteH (Ship) / 2 - 10"/>
             <para PARENT="Code"/>
             <ITEXT CH="   Shot(3) = 1"/>
             <para PARENT="Code"/>
@@ -708,29 +724,27 @@
             <para PARENT="Code"/>
             <ITEXT CH="     IF Enemy(eID, 3) THEN "/>
             <para PARENT="Code"/>
-            <ITEXT CH="       Enemy(eID, 1) = Enemy(eID, 1) - Ene"/>
+            <ITEXT CH="       Enemy(eID, 1) = Enemy(eID, 1) - Enemy(eI"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" my(eID, 6)"/>
+            <ITEXT CH=" D, 6)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       EY = Enemy(eID, 2) + COS (Enemy(eID"/>
+            <ITEXT CH="       EY = Enemy(eID, 2) + COS (Enemy(eID, 1))"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" , 1)) * Enemy(eID, 4) * 10"/>
+            <ITEXT CH=" * Enemy(eID, 4) * 10"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       IF Enemy(eID, 1) &gt; -getSpriteW(Rock"/>
+            <ITEXT CH="       IF Enemy(eID, 1) &gt; -getSpriteW(Rock(eID)"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" (eID))*2 AND Enemy(eID,1)&lt;= gWidth THEN p"/>
+            <ITEXT CH=" ) * 2 AND Enemy(eID,1) &lt;= gWidth THEN plotSpri"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" lotSprite (Enemy(eID, 0), Enemy(eID, 1), "/>
+            <ITEXT CH=" te (Enemy(eID, 0), Enemy(eID, 1), EY, 0)"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" EY, 0)"/>
+            <ITEXT CH="       IF Enemy(eID,1) &lt;= -getSpriteW(Rock(eID)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       IF Enemy(eID,1) &lt;= -GetSpriteW(Rock"/>
+            <ITEXT CH=" ) * 2 THEN"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" (eID))*2 THEN"/>
+            <ITEXT CH="         hideSprite(Rock(eID))"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         hidesprite(Rock(eID))"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         Enemy(eID,3)=0"/>
+            <ITEXT CH="         Enemy(eID,3) = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH="       ENDIF"/>
             <para PARENT="Code"/>
@@ -761,9 +775,9 @@
             <para PARENT="Code"/>
             <ITEXT CH="   ENDIF "/>
             <para PARENT="Code"/>
-            <ITEXT CH="   IF Crash=68 THEN"/>
+            <ITEXT CH="   IF Crash = 68 THEN"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     lives=lives-1"/>
+            <ITEXT CH="     lives = lives - 1"/>
             <para PARENT="Code"/>
             <ITEXT CH="     ShipX = 0"/>
             <para PARENT="Code"/>
@@ -773,17 +787,21 @@
             <para PARENT="Code"/>
             <ITEXT CH=" ENDPROC"/>
             <para PARENT="Code"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="These three procedures are responsible for working out bullet positions, checking various collisions and plotting rocks and the player’s ship to the screen."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Note; the highlighted line is one single line.  What is does is figure out if a rock is visible on the screen by checking if it’s too far left or too far to the right.  It only plots the sprite if it is in the viewable area."/>
+            <ITEXT FONT="FreeSans Bold" CH="Note"/>
+            <ITEXT CH=": The highlighted code is one single line. What it does is to figure out if a rock is visible on the screen by checking if it is too far left or too far right. It only plots the sprite if it is in the viewable area."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The DrawShip procedure plots the player’s ship and checks to see if it has collided with either the rocks (sprite IDs 0 to 64) or the boss (sprite ID 68). If it crashes into a rock the player’s ship is returned to its original position, lives are reduced by one and any rocks we may have crashed into are removed with the hideSprite command."/>
+            <ITEXT CH="The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="DrawShip"/>
+            <ITEXT CH=" procedure plots the player’s ship and checks to see if it has collided with either the rocks (sprite IDs 0 to 64) or the boss (sprite ID 68). If it crashes into a rock the player’s ship is returned to its original position, "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="lives"/>
+            <ITEXT CH=" is reduced by 1 and any rocks we may have crashed into are removed with the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="hideSprite"/>
+            <ITEXT CH=" command."/>
             <para PARENT="Body text"/>
-            <breakline/>
-            <ITEXT FONT="FreeSans Bold" FCOLOR="White" CH="he Editor – Player controls"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The player controls procedure is very straightforward and we have covered most of it before. Enter: "/>
+            <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" DEF PROC CheckControls"/>
             <para PARENT="Code"/>
@@ -799,11 +817,9 @@
             <para PARENT="Code"/>
             <ITEXT CH="   SpaceKey = scanKeyboard (scanSpace)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   IF SpaceKey AND  NOT Fire THEN PROC Bul"/>
+            <ITEXT CH="   IF SpaceKey AND  NOT Fire THEN PROC Bullet"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" let"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="   IF UpKey AND ShipY &lt;= gHeight-100 THEN "/>
+            <ITEXT CH="   IF UpKey AND ShipY &lt;= gHeight - 100 THEN "/>
             <para PARENT="Code"/>
             <ITEXT CH="     ShipY = ShipY + 8"/>
             <para PARENT="Code"/>
@@ -819,24 +835,24 @@
             <para PARENT="Code"/>
             <ITEXT CH="   ENDIF "/>
             <para PARENT="Code"/>
-            <ITEXT CH="   IF LeftKey AND ShipX &gt;= 0 THEN ShipX ="/>
+            <ITEXT CH="   IF LeftKey AND ShipX &gt;= 0 THEN ShipX = ShipX"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" ShipX - 8"/>
+            <ITEXT CH=" - 8"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   IF RightKey AND ShipX &lt;= gWidth/2 THEN"/>
+            <ITEXT CH="   IF RightKey AND ShipX &lt;= gWidth / 2 THEN Shi"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" ShipX = ShipX + 4"/>
+            <ITEXT CH=" pX = ShipX + 4"/>
             <para PARENT="Code"/>
             <ITEXT CH=" ENDPROC"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The Player controls procedure is very straightforward and we’ve covered most of it before. Various keys are checked to see if they are being pressed and actions take place accordingly."/>
+            <ITEXT CH="Various keys are checked to see if they are being pressed and actions take place accordingly. Notice the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="RightKey"/>
+            <ITEXT CH=" will only work if the player is not too far forward and it moves at half the number of pixels (4) than all the other directions (8). Moving slowly forward gives an extra sense of realism."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Notice the RightKey will only work if the player is not too far forward and it moves at half the number of pixels (4) than all the other directions (8).  Moving slowly forward gives an extra sense of realism."/>
+            <ITEXT CH="Here are some smaller procedures. Enter:"/>
             <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT FONT="FreeSans Bold" FCOLOR="White" CH="he Editor – Add after END statement"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" DEF PROC killEverything"/>
             <para PARENT="Code"/>
@@ -850,9 +866,9 @@
             <para PARENT="Code"/>
             <ITEXT CH="   hideSprite (Ship)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   IF bossActive THEN hideSprite(boss)"/>
+            <ITEXT CH="   IF bossActive THEN hideSprite (boss)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   bossActive=0"/>
+            <ITEXT CH="   bossActive = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH="   CLS2"/>
             <para PARENT="Code"/>
@@ -865,13 +881,13 @@
             <para PARENT="Code"/>
             <ITEXT CH="   PROC killEverything"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   FOR delay = 0 to 300 CYCLE"/>
+            <ITEXT CH="   FOR delay = 0 TO 300 CYCLE"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     INK=RND(15)+1"/>
+            <ITEXT CH="     INK = RND(15) + 1"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     fontScale(5,5)"/>
+            <ITEXT CH="     fontScale(5, 5)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     hvTab (tWidth/2 - LEN (Congrats$)/2,"/>
+            <ITEXT CH="     hvTab (tWidth / 2 - LEN (Congrats$) / 2,"/>
             <para PARENT="Code"/>
             <ITEXT CH=" tHeight / 2)"/>
             <para PARENT="Code"/>
@@ -881,7 +897,7 @@
             <para PARENT="Code"/>
             <ITEXT CH="   REPEAT"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   WIN=0"/>
+            <ITEXT CH="   WIN = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH=" ENDPROC"/>
             <para PARENT="Code"/>
@@ -894,11 +910,11 @@
             <para PARENT="Code"/>
             <ITEXT CH="   fontScale (4, 4)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   FOR num=0 TO 100 CYCLE "/>
+            <ITEXT CH="   FOR num = 0 TO 100 CYCLE "/>
             <para PARENT="Code"/>
-            <ITEXT CH="     hvTab (tWidth / 2 - LEN (text$) / 2,"/>
+            <ITEXT CH="     hvTab (tWidth / 2 - LEN (text$) / 2, tHeig"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" tHeight / 2)"/>
+            <ITEXT CH=" ht / 2)"/>
             <para PARENT="Code"/>
             <ITEXT CH="     INK = RND (15 + 1)"/>
             <para PARENT="Code"/>
@@ -908,34 +924,46 @@
             <para PARENT="Code"/>
             <ITEXT CH="   REPEAT "/>
             <para PARENT="Code"/>
-            <ITEXT CH="   IF score&gt;hiScore THEN hiScore=score"/>
+            <ITEXT CH="   IF score &gt; hiScore THEN hiScore = score"/>
             <para PARENT="Code"/>
             <ITEXT CH="   clearKeyboard"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   WIN=0"/>
+            <ITEXT CH="   WIN = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   lives=0"/>
+            <ITEXT CH="   lives = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH=" ENDPROC"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Here’s a few smaller ones."/>
-            <breakline/>
-            <breakline/>
-            <ITEXT CH="killEverything is used to reset and hide all the active sprites.  It is called before anything major happens like killing the boss and losing all your lives. wellDone is only called when you have successfully killed the boss. It simply displays “Congratulations” in the middle of the screen. gameOver displays “GAME OVER” in the middle of the screen and resets a few ‘trigger’ variables. For example ‘lives’ is set to zero which is what controls the main program loop."/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="killEverything"/>
+            <ITEXT CH=" is used to reset and hide all the active sprites. It is called before anything major happens like killing the boss and losing all your lives. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONT="FreeSans Bold" FCOLOR="White" CH="he Editor – The Attract screen"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="wellDone"/>
+            <ITEXT CH=" is only called when you have successfully killed the boss. It simply displays “Congratulations” in the middle of the screen. "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="gameOver"/>
+            <ITEXT CH=" displays “GAME OVER” in the middle of the screen and resets a few ‘trigger’ variables. For example "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="lives"/>
+            <ITEXT CH=" is set to 0, which controls the main program loop."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Attracting players"/>
+            <para PARENT="Body title"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Every half decent game must have an attract screen. It just provides something to look at when the game is not running. Enter:"/>
+            <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" DEF PROC attract"/>
             <para PARENT="Code"/>
             <ITEXT CH="   CLS"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   t1X = gWidth/2 - getSpriteW (title1)/2"/>
+            <ITEXT CH="   t1X = gWidth/2 - getSpriteW (title1) / 2"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   t2X = gWidth/2 - getSpriteW (title2)/2"/>
+            <ITEXT CH="   t2X = gWidth/2 - getSpriteW (title2) / 2"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   t1Y = gHeight - getSpriteH (title1)*1.5"/>
+            <ITEXT CH="   t1Y = gHeight - getSpriteH (title1) * 1.5"/>
             <para PARENT="Code"/>
             <ITEXT CH="   t2Y = getSpriteH (title2)"/>
             <para PARENT="Code"/>
@@ -947,9 +975,9 @@
             <para PARENT="Code"/>
             <ITEXT CH="     t1YY = t1Y + 40 * SIN (angle)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     t2XX = t2X - 80 * COS ( - angle)"/>
+            <ITEXT CH="     t2XX = t2X - 80 * COS (-angle)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     t2YY = t2Y - 10 * SIN ( - angle)"/>
+            <ITEXT CH="     t2YY = t2Y - 10 * SIN (-angle)"/>
             <para PARENT="Code"/>
             <ITEXT CH="     plotSprite (title1, t1XX, t1YY, 0)"/>
             <para PARENT="Code"/>
@@ -959,9 +987,9 @@
             <para PARENT="Code"/>
             <ITEXT CH="     fontScale (3, 3)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     hvTab (tWidth / 2 - LEN (Press$) / 2,"/>
+            <ITEXT CH="     hvTab (tWidth / 2 - LEN (Press$) / 2, tHei"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" tHeight / 2)"/>
+            <ITEXT CH=" ght / 2)"/>
             <para PARENT="Code"/>
             <ITEXT CH="     PRINT Press$"/>
             <para PARENT="Code"/>
@@ -975,7 +1003,7 @@
             <para PARENT="Code"/>
             <ITEXT CH="   hideSprite (title2)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   WAIT (.5)"/>
+            <ITEXT CH="   WAIT (0.5)"/>
             <para PARENT="Code"/>
             <ITEXT CH="   CLS "/>
             <para PARENT="Code"/>
@@ -984,43 +1012,54 @@
             <ITEXT CH=" ENDPROC"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Every half decent game must have an attract screen. It just provides something to look at when the game isn’t running. Lots of cosine and sine calculations here. The angle variable is increased to provide 360 degree movement. The X and Y positions of both images are calculated by taking a point of origin (t1x) then adding and multiplying a radius (250) by the cosine of the current angle."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="C:\Users\Robot\Desktop\Gdrive\FUZE\JonFiles\Programming\TheMagPi\Attract.png"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The point of origin (t1X) never changes as it’s only the radius that is operated on. This is repeated on t1Y, t2X and t2Y and then the two images are drawn as sprites."/>
+            <ITEXT CH="There are several cosine and sine calculations here. The angle variable is increased to provide 360 degree movement. The X and Y positions of both images are calculated by taking a point of origin ("/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="t1X"/>
+            <ITEXT CH=") then adding and multiplying a radius (250) by the cosine of the current angle. The point of origin ("/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="t1X"/>
+            <ITEXT CH=") never changes as it is only the radius that is operated on. This is repeated on "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="t1Y"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="t2X"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="t2Y"/>
+            <ITEXT CH=" and then the two images are drawn as sprites."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="“Press the Space Bar” is displayed in the middle of the screen using hvTab and PRINT Press$. The whole thing is enclosed in a WHILE LOOP that checks for the Space Bar.  Once the Space is pressed the loop ends, the sprites removed and the procedure returns."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONT="FreeSans Bold" FCOLOR="White" CH="he Editor – Setup to execute once per session"/>
+            <ITEXT CH="“Press the Space Bar” is displayed in the middle of the screen using "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="hvTab"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="PRINT Press$"/>
+            <ITEXT CH=". The whole thing is enclosed in a "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="WHILE"/>
+            <ITEXT CH=" loop that checks for the &lt;Space bar&gt; to be pressed. Once the &lt;Space bar&gt; is pressed the loop ends, the sprites are removed and the procedure returns."/>
             <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="There are two setup procedures - "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="SetupMain"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="SetupGame"/>
+            <ITEXT CH=". The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="SetupMain"/>
+            <ITEXT CH=" procedure initialises everything that is required the very first time you run the game; things like text messages, all of the sprite graphics and major variables. Enter:"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Code"/>
             <ITEXT CH=" DEF PROC SetupMain"/>
             <para PARENT="Code"/>
             <ITEXT CH="   HGR "/>
             <para PARENT="Code"/>
-            <ITEXT CH="   hiScore=0"/>
+            <ITEXT CH="   hiScore = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   WIN=0"/>
+            <ITEXT CH="   WIN = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH="   updateMode = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   Warning$=&quot;Warning.. Huge Fruit Approach"/>
+            <ITEXT CH="   Warning$ = &quot;Warning, Huge Fruit Approaches!&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" es!&quot;"/>
+            <ITEXT CH="   Press$ = &quot;Press the Space Bar&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   Press$=&quot;Press the Space Bar&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="   Congrats$=&quot;CONGRATULATIONS!&quot;"/>
+            <ITEXT CH="   Congrats$ = &quot;CONGRATULATIONS!&quot;"/>
             <para PARENT="Code"/>
             <ITEXT CH="   Ship = newSprite (3)"/>
             <para PARENT="Code"/>
@@ -1042,11 +1081,9 @@
             <para PARENT="Code"/>
             <ITEXT CH="     Rock(num) = newSprite (1)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     loadSprite (&quot;BigRock.bmp&quot;, Rock(num),"/>
+            <ITEXT CH="     loadSprite (&quot;BigRock.bmp&quot;, Rock(num), 0)"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" 0)"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="     setSpriteTrans (Rock(num),255,0,255)"/>
+            <ITEXT CH="     setSpriteTrans (Rock(num), 255, 0, 255)"/>
             <para PARENT="Code"/>
             <ITEXT CH="   REPEAT "/>
             <para PARENT="Code"/>
@@ -1057,6 +1094,7 @@
             <ITEXT CH="   loadSprite (&quot;Bullet.bmp&quot;, Shot(0), 0)"/>
             <para PARENT="Code"/>
             <ITEXT CH="   setSpriteTrans (Shot(0), 255, 0, 255)"/>
+            <para PARENT="Code"/>
             <para PARENT="Code"/>
             <ITEXT CH="   title1 = newSprite (1)"/>
             <para PARENT="Code"/>
@@ -1072,33 +1110,45 @@
             <para PARENT="Code"/>
             <ITEXT CH="   shipPic = loadImage (&quot;ship.bmp&quot;)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   boss=newSprite (1)"/>
+            <ITEXT CH="   boss = newSprite (1)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   loadSprite (&quot;blackberry.bmp&quot;,boss,0)"/>
+            <ITEXT CH="   loadSprite (&quot;blackberry.bmp&quot;, boss, 0)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   setSpriteTrans (boss,255,0,255)"/>
+            <ITEXT CH="   setSpriteTrans (boss, 255, 0, 255)"/>
             <para PARENT="Code"/>
             <ITEXT CH=" ENDPROC"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="There are two setup procedures. The first sets everything up that is required the very first time you run the game so things like text messages, all of the sprite graphics and major variables."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="I think we have covered this before but just in case;"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The ‘newSprite(#)’ command sets up a variable to store a sprite container ID.  The # signifies how many sprites go into the container.  For example;"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Ship=newSprite(3) defines the sprite ‘Ship’ and gives it three slots for graphics.  This is then referenced by plotSprite(Ship, X, Y, #) and is how we change the Ship graphic depending on if it’s moving up, down or just staying still."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="loadSprite loads a sprite graphic into a container slot specified by the number at the end."/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="setSpriteTrans forces one colour to be transparent meaning it will never be displayed.  This is important as even black would be displayed over a white background. I generally use bright pink as it is not often used for anything else."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The great thing about simple sprite controls like this is that it’s so easy to change the graphics by just changing a file name.  You should probably go for similar sizes though and remember to set the transparent colour."/>
-            <para PARENT="Body text"/>
+            <ITEXT CH="We have covered this before but as a reminder the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="newSprite(#)"/>
+            <ITEXT CH=" command sets up a variable to store a sprite container ID. The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="#"/>
+            <ITEXT CH=" signifies how many sprites go into the container.  For example, "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="Ship = newSprite (3)"/>
+            <ITEXT CH=" defines the sprite "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="Ship"/>
+            <ITEXT CH=" and gives it three slots for graphics. This is then referenced by "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="plotSprite (Ship, X, Y, #)"/>
+            <ITEXT CH=" and is how we change the "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="Ship"/>
+            <ITEXT CH=" graphic depending on if it is moving up, down or just staying still."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="loadSprite"/>
+            <ITEXT CH=" loads a sprite graphic into a container slot specified by the number at the end of the command."/>
             <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="setSpriteTrans"/>
+            <ITEXT CH=" forces one colour to be transparent, meaning it will never be displayed. This is important as even black would be displayed over a white background. I generally use bright pink as the background colour for sprites as it is not often used for anything else."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The great thing about simple sprite controls like the above is that it is so easy to change the graphics by just changing a file name. You should probably use similar sizes though and remember to set the transparent colour."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Almost there..."/>
+            <para PARENT="Body title"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Ok, this is it… the final furlong. The last procedure is the game setup. This configures all the variables as required each time a level is played. The first part checks to see if it is a new game or a new level. Everything thereafter configures game variables to start a new level. Enter:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH=" DEF PROC SetupGame"/>
@@ -1109,13 +1159,15 @@
             <para PARENT="Code"/>
             <ITEXT CH="     Level = 1"/>
             <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
             <ITEXT CH="     score = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH="   ELSE"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     lives=lives + 1"/>
+            <ITEXT CH="     lives = lives + 1"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     score=score + 10000"/>
+            <ITEXT CH="     score = score + 10000"/>
             <para PARENT="Code"/>
             <ITEXT CH="   ENDIF"/>
             <para PARENT="Code"/>
@@ -1125,19 +1177,19 @@
             <para PARENT="Code"/>
             <ITEXT CH="   ShipID = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   bossX=gWidth+getSpriteW(boss)"/>
+            <ITEXT CH="   bossX = gWidth + getSpriteW (boss)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   bossXX=10"/>
+            <ITEXT CH="   bossXX = 10"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   bossY=gHeight/2+getSpriteH(boss)/2"/>
+            <ITEXT CH="   bossY = gHeight / 2 + getSpriteH (boss) / 2"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   bossYY=10"/>
+            <ITEXT CH="   bossYY = 10"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   bossAng=0"/>
+            <ITEXT CH="   bossAng = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   bossHit=10"/>
+            <ITEXT CH="   bossHit = 10"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   WIN=0"/>
+            <ITEXT CH="   WIN = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH="   eID = 0"/>
             <para PARENT="Code"/>
@@ -1191,31 +1243,27 @@
             <para PARENT="Code"/>
             <ITEXT CH="     FOR num = 0 TO 7 CYCLE "/>
             <para PARENT="Code"/>
-            <ITEXT CH="       Enemy(EnemyCount + num, 0) = Rock("/>
+            <ITEXT CH="       Enemy(EnemyCount + num, 0) = Rock(Enemy"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" EnemyCount + num)"/>
+            <ITEXT CH=" Count + num)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       Enemy(EnemyCount + num, 1) = EnemyX"/>
+            <ITEXT CH="       Enemy(EnemyCount + num, 1) = EnemyX + nu"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" + num * getSpriteW (Rock(0))"/>
+            <ITEXT CH=" m * getSpriteW (Rock(0))"/>
             <para PARENT="Code"/>
             <ITEXT CH="       Enemy(EnemyCount + num, 2) = EnemyY"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       Enemy(EnemyCount + num, 3) = EnemyA"/>
+            <ITEXT CH="       Enemy(EnemyCount + num, 3) = EnemyActive"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" ctive"/>
+            <ITEXT CH="       Enemy(EnemyCount + num, 4) = EnemyVaria"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       Enemy(EnemyCount + num, 4) = EnemyV"/>
+            <ITEXT CH=" tion"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" ariation"/>
+            <ITEXT CH="       Enemy(EnemyCount + num, 5) = EnemyScore"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       Enemy(EnemyCount + num, 5) = EnemyS"/>
+            <ITEXT CH="       Enemy(EnemyCount + num, 6) = EnemySpeed"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" core"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="       Enemy(EnemyCount + num, 6) = EnemyS"/>
-            <para PARENT="Code"/>
-            <ITEXT CH=" peed * Level"/>
+            <ITEXT CH=" * Level"/>
             <para PARENT="Code"/>
             <ITEXT CH="     REPEAT "/>
             <para PARENT="Code"/>
@@ -1223,51 +1271,53 @@
             <para PARENT="Code"/>
             <ITEXT CH="   REPEAT "/>
             <para PARENT="Code"/>
+            <para PARENT="Code"/>
             <ITEXT CH="   Fire = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   bossActive=0"/>
+            <ITEXT CH="   bossActive = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   Warning=0"/>
+            <ITEXT CH="   Warning = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   WarningCount=0"/>
+            <ITEXT CH="   WarningCount = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH=" ENDPROC"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Ok, this is it… the final furlong, the last mile, the big, oh just get on with it!"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The last procedure is the game setup. This configures all the variables as required each time a level is played. The first part checks to see if it is a new game or a new level. Everything thereafter configures game variables to start a new level."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The DATA section resets all the enemy rocks to their default position. The boss is reset and then the procedure returns to the main loop."/>
+            <ITEXT CH="The "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="DATA"/>
+            <ITEXT CH=" section resets all the enemy rocks to their default position. The boss is reset and then the procedure returns to the main loop."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Once you have typed all of the listing in, or copied it if you were being lazy… you can attempt to RUN"/>
+            <ITEXT CH="Time to play"/>
+            <para PARENT="Body title"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Once you have typed in all of the listing, you can attempt to RUN"/>
             <ITEXT FONTSIZE="14" CH=" "/>
-            <ITEXT CH="it with &lt;F3&gt;."/>
+            <ITEXT CH="it by pressing &lt;F3&gt;."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now, the chances of this working perfectly first time are slim.  Errors usually creep in so expect some debugging. Generally errors are typing mistakes, misspellings and or wrong capitalisation.  You have to be very thorough."/>
+            <ITEXT CH="Now, the chances of this working perfectly first time are not high. Errors usually creep in so expect to do some debugging. Generally most errors are typing mistakes, incorrect spelling and/or wrong capitalisation. You have to be very thorough."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Once you get it up and running, play the game.  I’ve managed to get to the level five boss, can you?"/>
+            <ITEXT CH="Once you get it up and running, play the game. I have managed to get to the level five boss, can you?"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The great thing about a listing like this is that you get to experiment, which is exactly what your next steps should be.  Most of the variable names make sense so you should be able to change most things."/>
+            <ITEXT CH="The great thing about a listing like this is that you get to experiment, which is exactly what your next steps should be. Most of the variable names make sense so you should be able to change most things."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="However if you’re up to the challenge then why not add some sound, explosions, more animation and perhaps different enemies and bosses for later levels. "/>
-            <ITEXT FONT="FreeSans Oblique" CH="And"/>
-            <ITEXT CH=" let’s not forget the PowerUp! The MagPi game is a decent little game start but there’s plenty of scope to improve, change and experiment. "/>
+            <ITEXT CH="However, if you are up to the challenge then why not add some sound, explosions, more animation and perhaps different enemies and bosses for later levels... and let’s not forget the Power Up! The MagPi game is a decent little game start but there is plenty of scope to improve, change and experiment. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="This just leaves me to say, it has been an absolute privilege to work on this project and I have thoroughly enjoyed doing it.  I only hope I have not gone on too long as it would be great to be invited back for more. I hope you’ve enjoyed it too and at the very least gained a better understanding of BASIC and now appreciate just how great a language it can be."/>
+            <ITEXT CH="This just leaves me to say, it has been an absolute privilege to work on this project and I have thoroughly enjoyed doing it. I hope you have enjoyed it too and at the very least gained a better understanding of BASIC and now appreciate just how great a language it can be."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="My name is Jon Silvera, please feel free to contact me at "/>
+            <ITEXT FONT="FreeSans Bold" CH="Why not use your new FUZE BASIC skills and enter our programming competition where there are £500 of prizes to win. Full details are on page 46."/>
+            <para PARENT="Body text"/>
+            <ITEXT CH=" "/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="My name is Jon Silvera. Please feel free to contact me at "/>
             <ITEXT FCOLOR="Blue" CH="contact@fuze.co.uk"/>
-            <ITEXT CH="; I’ll be happy to try and help if you have any questions and I’d also love to see any projects you develop with FUZE BASIC.  Happy coding folks, bye for now, teamFUZE."/>
-            <para PARENT="Body text"/>
+            <ITEXT CH=". I am happy to try and help if you have any questions and I would also love to see any projects you develop with FUZE BASIC."/>
             <para PARENT="Body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1318,7 +1368,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="104.36314960626" YPOS="834.11149604252" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="40"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="38"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1327,7 +1377,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="104.36314960626" YPOS="2597.89039368032" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="42"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="40"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1336,7 +1386,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="654.28440942126" YPOS="1716.00094486142" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="41"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="39"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1361,7 +1411,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="654.28440942126" YPOS="3479.77984249921" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="43"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="41"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1389,7 +1439,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="104.36314960626" YPOS="4361.66929131811" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="44"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="42"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1417,7 +1467,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="654.28440942126" YPOS="5243.55874013701" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="45"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="43"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1445,11 +1495,103 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="104.36314960626" YPOS="6125.44818895591" WIDTH="36.8503937" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 36.8504 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="46"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="Warm Black" CH="44"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="128.34708661126" YPOS="5365.95283464591" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="60">
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="128.347086570867" YPOS="5365.95283464591" WIDTH="538.5883465" HEIGHT="365.499212598425" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 365.499 538.588 365.499 538.588 365.499 538.588 365.499 0 365.499 0 365.499 0 365.499 0 365.499 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 365.499 538.588 365.499 538.588 365.499 538.588 365.499 0 365.499 0 365.499 0 365.499 0 365.499 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="60">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="614.25" YPOS="455.685994546244" WIDTH="52.685432434082" HEIGHT="57.1486511230469" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.375" LOCALSCY="0.375" LOCALX="15.1181102362205" LOCALY="7.55905511811024" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="fuze icon.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 52.6854 0 52.6854 0 52.6854 0 52.6854 0 52.6854 57.1487 52.6854 57.1487 52.6854 57.1487 52.6854 57.1487 0 57.1487 0 57.1487 0 57.1487 0 57.1487 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 52.6854 0 52.6854 0 52.6854 0 52.6854 0 52.6854 57.1487 52.6854 57.1487 52.6854 57.1487 52.6854 57.1487 0 57.1487 0 57.1487 0 57.1487 0 57.1487 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="410.716535433071" YPOS="521.73353060024" WIDTH="255.935440063477" HEIGHT="242.68180847168" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 242.682 255.935 242.682 255.935 242.682 255.935 242.682 0 242.682 0 242.682 0 242.682 0 242.682 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 242.682 255.935 242.682 255.935 242.682 255.935 242.682 0 242.682 0 242.682 0 242.682 0 242.682 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.347091674805" YPOS="1256.82800292969" WIDTH="256.402893066406" HEIGHT="254.511474609375" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 254.511 256.403 254.511 256.403 254.511 256.403 254.511 0 254.511 0 254.511 0 254.511 0 254.511 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 254.511 256.403 254.511 256.403 254.511 256.403 254.511 0 254.511 0 254.511 0 254.511 0 254.511 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="410.532531738281" YPOS="988.828002929688" WIDTH="256.402893066406" HEIGHT="375.109985351562" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 375.11 256.403 375.11 256.403 375.11 256.403 375.11 0 375.11 0 375.11 0 375.11 0 375.11 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 375.11 256.403 375.11 256.403 375.11 256.403 375.11 0 375.11 0 375.11 0 375.11 0 375.11 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="411" YPOS="1551.02453613281" WIDTH="255.935440063477" HEIGHT="134.975433349609" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.26169267900151" LOCALSCY="0.227999042820286" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Boss.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 134.975 255.935 134.975 255.935 134.975 255.935 134.975 0 134.975 0 134.975 0 134.975 0 134.975 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 134.975 255.935 134.975 255.935 134.975 255.935 134.975 0 134.975 0 134.975 0 134.975 0 134.975 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.347091674805" YPOS="1859.66259765625" WIDTH="256.402893066406" HEIGHT="463.08740234375" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 463.087 256.403 463.087 256.403 463.087 256.403 463.087 0 463.087 0 463.087 0 463.087 0 463.087 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 463.087 256.403 463.087 256.403 463.087 256.403 463.087 0 463.087 0 463.087 0 463.087 0 463.087 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="128.347091674805" YPOS="2429.66929133858" WIDTH="256.402923583984" HEIGHT="133.618424966302" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.225706798929564" LOCALSCY="0.225706798929564" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Action.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 133.618 256.403 133.618 256.403 133.618 256.403 133.618 0 133.618 0 133.618 0 133.618 0 133.618 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 133.618 256.403 133.618 256.403 133.618 256.403 133.618 0 133.618 0 133.618 0 133.618 0 133.618 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="410.532531738281" YPOS="2011.66259765625" WIDTH="256.402893066406" HEIGHT="557.314453125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 557.314 256.403 557.314 256.403 557.314 256.403 557.314 0 557.314 0 557.314 0 557.314 0 557.314 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 557.314 256.403 557.314 256.403 557.314 256.403 557.314 0 557.314 0 557.314 0 557.314 0 557.314 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="411" YPOS="2201.25" WIDTH="255.935440063477" HEIGHT="38.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Yellow" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 38.25 255.935 38.25 255.935 38.25 255.935 38.25 0 38.25 0 38.25 0 38.25 0 38.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 38.25 255.935 38.25 255.935 38.25 255.935 38.25 0 38.25 0 38.25 0 38.25 0 38.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="128.347091674805" YPOS="2892.44116210938" WIDTH="257.152923583984" HEIGHT="157.755990426652" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.266479713558533" LOCALSCY="0.266479713558533" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="ships.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 157.756 257.153 157.756 257.153 157.756 257.153 157.756 0 157.756 0 157.756 0 157.756 0 157.756 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 257.153 0 257.153 0 257.153 0 257.153 0 257.153 157.756 257.153 157.756 257.153 157.756 257.153 157.756 0 157.756 0 157.756 0 157.756 0 157.756 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.347091674805" YPOS="3105.75" WIDTH="256.402893066406" HEIGHT="281.368896484375" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 281.369 256.403 281.369 256.403 281.369 256.403 281.369 0 281.369 0 281.369 0 281.369 0 281.369 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 281.369 256.403 281.369 256.403 281.369 256.403 281.369 0 281.369 0 281.369 0 281.369 0 281.369 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="410.532531738281" YPOS="2782.5" WIDTH="256.402893066406" HEIGHT="543.618896484375" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 543.619 256.403 543.619 256.403 543.619 256.403 543.619 0 543.619 0 543.619 0 543.619 0 543.619 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 543.619 256.403 543.619 256.403 543.619 256.403 543.619 0 543.619 0 543.619 0 543.619 0 543.619 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="411" YPOS="3390.75" WIDTH="255.935440063477" HEIGHT="61.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.20777027027027" LOCALSCY="0.20777027027027" LOCALX="191.004417130785" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Congrats.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 61.5 255.935 61.5 255.935 61.5 255.935 61.5 0 61.5 0 61.5 0 61.5 0 61.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 61.5 255.935 61.5 255.935 61.5 255.935 61.5 0 61.5 0 61.5 0 61.5 0 61.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="128.347091674805" YPOS="3805.90747070312" WIDTH="256.402893066406" HEIGHT="372.342529296875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 372.343 256.403 372.343 256.403 372.343 256.403 372.343 0 372.343 0 372.343 0 372.343 0 372.343 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 372.343 256.403 372.343 256.403 372.343 256.403 372.343 0 372.343 0 372.343 0 372.343 0 372.343 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="411" YPOS="3603.18310546875" WIDTH="255.935440063477" HEIGHT="195.754238394804" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.330665943234466" LOCALSCY="0.330665943234466" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Attract.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 195.754 255.935 195.754 255.935 195.754 255.935 195.754 0 195.754 0 195.754 0 195.754 0 195.754 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 195.754 255.935 195.754 255.935 195.754 255.935 195.754 0 195.754 0 195.754 0 195.754 0 195.754 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="410.532531738281" YPOS="3994.71240234375" WIDTH="256.402893066406" HEIGHT="335.208984375" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 335.209 256.403 335.209 256.403 335.209 256.403 335.209 0 335.209 0 335.209 0 335.209 0 335.209 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 335.209 256.403 335.209 256.403 335.209 256.403 335.209 0 335.209 0 335.209 0 335.209 0 335.209 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="6" XPOS="128.347091674805" YPOS="4485.3720703125" WIDTH="256.402893066406" HEIGHT="151.1279296875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 151.128 256.403 151.128 256.403 151.128 256.403 151.128 0 151.128 0 151.128 0 151.128 0 151.128 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 151.128 256.403 151.128 256.403 151.128 256.403 151.128 0 151.128 0 151.128 0 151.128 0 151.128 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="6" XPOS="128.347091674805" YPOS="5143.779296875" WIDTH="256.402893066406" HEIGHT="70.220703125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 70.2207 256.403 70.2207 256.403 70.2207 256.403 70.2207 0 70.2207 0 70.2207 0 70.2207 0 70.2207 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 70.2207 256.403 70.2207 256.403 70.2207 256.403 70.2207 0 70.2207 0 70.2207 0 70.2207 0 70.2207 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="6" XPOS="411.244720458984" YPOS="4485.3720703125" WIDTH="256.402893066406" HEIGHT="727.8779296875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 727.878 256.403 727.878 256.403 727.878 256.403 727.878 0 727.878 0 727.878 0 727.878 0 727.878 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 727.878 256.403 727.878 256.403 727.878 256.403 727.878 0 727.878 0 727.878 0 727.878 0 727.878 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="6" XPOS="128.347091674805" YPOS="5366.58251953125" WIDTH="256.402893066406" HEIGHT="73.91748046875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Theme" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 73.9175 256.403 73.9175 256.403 73.9175 256.403 73.9175 0 73.9175 0 73.9175 0 73.9175 0 73.9175 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 73.9175 256.403 73.9175 256.403 73.9175 256.403 73.9175 0 73.9175 0 73.9175 0 73.9175 0 73.9175 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="440.158111572266" YPOS="5685" WIDTH="96.8418884277344" HEIGHT="15.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="mailto:contact@fuze.co.uk" ANZIEL="6" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text125" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 96.8419 0 96.8419 0 96.8419 0 96.8419 0 96.8419 15.75 96.8419 15.75 96.8419 15.75 96.8419 15.75 0 15.75 0 15.75 0 15.75 0 15.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 96.8419 0 96.8419 0 96.8419 0 96.8419 0 96.8419 15.75 96.8419 15.75 96.8419 15.75 96.8419 15.75 0 15.75 0 15.75 0 15.75 0 15.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347091674805" YPOS="511.5" WIDTH="167.244094848633" HEIGHT="15.9028348922729" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://www.fuze.co.uk/resources-2" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text126" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 167.244 0 167.244 0 167.244 0 167.244 0 167.244 15.9028 167.244 15.9028 167.244 15.9028 167.244 15.9028 0 15.9028 0 15.9028 0 15.9028 0 15.9028 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 167.244 0 167.244 0 167.244 0 167.244 0 167.244 15.9028 167.244 15.9028 167.244 15.9028 167.244 15.9028 0 15.9028 0 15.9028 0 15.9028 0 15.9028 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="194.25" YPOS="667.5" WIDTH="166.538024902344" HEIGHT="15" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://www.fuze.co.uk/resources-2" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text127" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 166.538 0 166.538 0 166.538 0 166.538 0 166.538 15 166.538 15 166.538 15 166.538 15 0 15 0 15 0 15 0 15 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 166.538 0 166.538 0 166.538 0 166.538 0 166.538 15 166.538 15 166.538 15 166.538 15 0 15 0 15 0 15 0 15 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
