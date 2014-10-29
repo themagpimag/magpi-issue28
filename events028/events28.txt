@@ -1,10 +1,7 @@
 Northern Ireland Raspberry Jam 6
 http://www.eventbrite.co.uk/e/13630478127
-Farset Labs
-Linfield Industrial Estate
-Belfast
-BT12 5GH 
-United Kingdom
+Farset Labs, Linfield Industrial Estate, Belfast, BT12 5GH 
+
 
 Saturday, 8 November 2014 from 13:00 to 17:00 (GMT)
 
@@ -17,11 +14,7 @@ Torbay Raspberry Pi Jam
 Devon and Cornwall GNU / Linux user group
 Saturday, 8 November 2014 from 13:00 to 15:00 (GMT)
 
-Paignton Library and Information Centre
-Great Western Road
-Paignton
-TQ4 5AG 
-United Kingdom
+Paignton Library and Information Centre, Great Western Road, Paignton, TQ4 5AG 
 
 Come along to see a mix of project demonstrations, to help others and find out more about the Raspberry Pi.
 
@@ -29,9 +22,7 @@ Come along to see a mix of project demonstrations, to help others and find out m
 
 Raspberry Jam London
 http://www.eventbrite.co.uk/e/13310980501
-Kano
-69-89 Mile End Rd
-E1 4TT
+Kano, 69-89 Mile End Rd, E1 4TT
 E1 4UJ 
 United Kingdom
 
@@ -44,11 +35,8 @@ The Jam will have lots going on including learning to solder, 3D print, and make
 http://www.eventbrite.com/e/13561393493
 http://raspberryjam.be/
 Raspberry Jam Belgium
-Oh! Mechelen
-Kanunnik De Deckerstraat 20 A
-2800 Mechelen
-Belgium
-Thursday, November 13, 2014 from 7:00 PM to 10:00 PM (CET)
+Oh! Mechelen, Kanunnik De Deckerstraat 20 A, 2800 Mechelen, Belgium
+Thursday 13th November 2014, 7.00pm to 10.00pm CET
 The first Raspberry Jam in the region. Both Dutch and non-Dutch speakers are welcome. This is an event for all. This will be an introduction to the Raspberry Pi for all.
 
 =============
