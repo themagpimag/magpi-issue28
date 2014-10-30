@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.1.svn">
-    <DOCUMENT ANZPAGES="7" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="7" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="12" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+    <DOCUMENT ANZPAGES="7" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="7" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="6" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -32,7 +32,7 @@
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <COLOR NAME="orange" RGB="#e3711a" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="FreeSans Bold" LANGUAGE="English"/>
         <STYLE NAME="Body text" ALIGN="3" LINESP="14" FONTSIZE="11" LANGUAGE="English"/>
         <STYLE NAME="Body sub-title" FONT="FreeSans Bold Oblique" FONTSIZE="13" LANGUAGE="English"/>
@@ -45,7 +45,7 @@
         <STYLE NAME="P1" LINESPMode="0" LINESP="12" VOR="0" NACH="7.99370078740157" FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="FUZE Red" KERN="0"/>
         <STYLE NAME="P3" LINESPMode="0" LINESP="13.2" VOR="0" NACH="0" FONT="FreeSans Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
         <STYLE NAME="P2" LINESPMode="0" LINESP="12" VOR="0" NACH="7.99370078740157" FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="FUZE Red" KERN="0"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (1)" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (2)" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Copy of Default Character Style (3)" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
@@ -414,8 +414,10 @@
             <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="themagpi.bmp"/>
             <ITEXT CH=", "/>
             <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="fblogo.bmp"/>
-            <ITEXT CH=" and "/>
+            <ITEXT CH=", "/>
             <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="blackberry.bmp"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="ship.bmp"/>
             <ITEXT CH=". You need to download and save these sprites to the "/>
             <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="MagPi"/>
             <ITEXT CH=" folder where your program is saved. "/>
@@ -502,13 +504,13 @@
             <para PARENT="Code"/>
             <ITEXT CH="   PRINT &quot;Score &quot;; score"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   INK = RED"/>
+            <ITEXT CH="   INK = Red"/>
             <para PARENT="Code"/>
             <ITEXT CH="   hvTab (tWidth / 2 - 7, 0)"/>
             <para PARENT="Code"/>
             <ITEXT CH="   PRINT &quot;Hi Score &quot;; hiScore"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   INK = YELLOW"/>
+            <ITEXT CH="   INK = Yellow"/>
             <para PARENT="Code"/>
             <ITEXT CH="   hvTab (tWidth - 7, 0)"/>
             <para PARENT="Code"/>
@@ -734,17 +736,17 @@
             <para PARENT="Code"/>
             <ITEXT CH="       IF Enemy(eID, 1) &gt; -getSpriteW(Rock(eID)"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" ) * 2 AND Enemy(eID,1) &lt;= gWidth THEN plotSpri"/>
+            <ITEXT CH=" ) * 2 AND Enemy(eID, 1) &lt;= gWidth THEN plotSpr"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" te (Enemy(eID, 0), Enemy(eID, 1), EY, 0)"/>
+            <ITEXT CH=" ite (Enemy(eID, 0), Enemy(eID, 1), EY, 0)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="       IF Enemy(eID,1) &lt;= -getSpriteW(Rock(eID)"/>
+            <ITEXT CH="       IF Enemy(eID, 1) &lt;= -getSpriteW(Rock(eID"/>
             <para PARENT="Code"/>
-            <ITEXT CH=" ) * 2 THEN"/>
+            <ITEXT CH=" )) * 2 THEN"/>
             <para PARENT="Code"/>
             <ITEXT CH="         hideSprite(Rock(eID))"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         Enemy(eID,3) = 0"/>
+            <ITEXT CH="         Enemy(eID, 3) = 0"/>
             <para PARENT="Code"/>
             <ITEXT CH="       ENDIF"/>
             <para PARENT="Code"/>
@@ -817,7 +819,7 @@
             <para PARENT="Code"/>
             <ITEXT CH="   SpaceKey = scanKeyboard (scanSpace)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   IF SpaceKey AND  NOT Fire THEN PROC Bullet"/>
+            <ITEXT CH="   IF SpaceKey AND NOT Fire THEN PROC Bullet"/>
             <para PARENT="Code"/>
             <ITEXT CH="   IF UpKey AND ShipY &lt;= gHeight - 100 THEN "/>
             <para PARENT="Code"/>
@@ -916,7 +918,7 @@
             <para PARENT="Code"/>
             <ITEXT CH=" ht / 2)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     INK = RND (15 + 1)"/>
+            <ITEXT CH="     INK = RND (15) + 1"/>
             <para PARENT="Code"/>
             <ITEXT CH="     PRINT text$"/>
             <para PARENT="Code"/>
@@ -969,7 +971,7 @@
             <para PARENT="Code"/>
             <ITEXT CH="   angle = 0"/>
             <para PARENT="Code"/>
-            <ITEXT CH="   WHILE NOT scankeyboard(scanSpace) CYCLE"/>
+            <ITEXT CH="   WHILE NOT scanKeyboard (scanSpace) CYCLE"/>
             <para PARENT="Code"/>
             <ITEXT CH="     t1XX = t1X + 250 * COS (angle)"/>
             <para PARENT="Code"/>
@@ -983,7 +985,7 @@
             <para PARENT="Code"/>
             <ITEXT CH="     plotSprite (title2, t2XX, t2YY, 0)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     INK = RND (15 + 1)"/>
+            <ITEXT CH="     INK = RND (15) + 1"/>
             <para PARENT="Code"/>
             <ITEXT CH="     fontScale (3, 3)"/>
             <para PARENT="Code"/>
@@ -1311,7 +1313,7 @@
             <ITEXT CH="This just leaves me to say, it has been an absolute privilege to work on this project and I have thoroughly enjoyed doing it. I hope you have enjoyed it too and at the very least gained a better understanding of BASIC and now appreciate just how great a language it can be."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONT="FreeSans Bold" CH="Why not use your new FUZE BASIC skills and enter our programming competition where there are £500 of prizes to win. Full details are on page 46."/>
+            <ITEXT FONT="FreeSans Bold" CH="Why not use your new FUZE BASIC skills and enter our programming competition where there are £500 of prizes to win. Full details are on the opposite page."/>
             <para PARENT="Body text"/>
             <ITEXT CH=" "/>
             <para PARENT="Body text"/>
