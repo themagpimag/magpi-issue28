@@ -1,4 +1,3 @@
-// pdf1
 // MagPi
 PROC SetupMain
 CYCLE 
@@ -17,8 +16,6 @@ CYCLE
   PROC gameOver
 REPEAT 
 END 
-//
-// pdf2 col1
 DEF PROC updateScreen
 CLS2 
 INK = Yellow
@@ -37,8 +34,6 @@ REPEAT
 COLOUR = Silver
 RECT (0, 62, gWidth, 4, 1)
 ENDPROC 
-//
-// pdf2 col2
 DEF PROC BOSS
 IF Enemy(EnemyMax, 1) <= 0 OR Enemy(EnemyMax, 3) = 0 THEN Warning = 1
 IF Warning THEN 
@@ -64,8 +59,6 @@ IF bossActive THEN
   IF bossAng >= 360 THEN bossAng = 0
 ENDIF 
 ENDPROC 
-//
-// pdf3 col1
 DEF PROC DrawBullet
 IF Shot(1) > gWidth THEN 
   hideSprite (Shot(0))
@@ -101,15 +94,12 @@ IF Shot(3) THEN
   ENDIF 
 ENDIF 
 ENDPROC 
-//
-// pdf3 col2
 DEF PROC Bullet
 Fire = 1
 Shot(1) = ShipX + getSpriteW (Ship) + 8
 Shot(2) = ShipY + getSpriteH (Ship) / 2 - 10
 Shot(3) = 1
 ENDPROC 
-//
 DEF PROC DrawEnemy
 FOR eID = 0 TO EnemyMax CYCLE 
   IF Enemy(eID, 3) THEN 
@@ -123,7 +113,6 @@ FOR eID = 0 TO EnemyMax CYCLE
   ENDIF 
 REPEAT 
 ENDPROC 
-//
 DEF PROC DrawShip
 plotSprite (Ship, ShipX, ShipY, ShipID)
 Crash = spriteCollidePP (Ship, 2)
@@ -140,8 +129,6 @@ IF Crash = 68 THEN
   ShipY = gHeight / 2
 ENDIF 
 ENDPROC 
-//
-// pdf4 col1
 DEF PROC CheckControls
 ShipID = 1
 UpKey = scanKeyboard (scanUp)
@@ -161,8 +148,6 @@ ENDIF
 IF LeftKey AND ShipX >= 0 THEN ShipX = ShipX - 8
 IF RightKey AND ShipX <= gWidth / 2 THEN ShipX = ShipX + 4
 ENDPROC 
-//
-// pdf4 col2
 DEF PROC killEverything
 FOR num = 0 TO EnemyMax CYCLE 
   hideSprite (Rock(num))
@@ -173,7 +158,6 @@ IF bossActive THEN hideSprite (boss)
 bossActive = 0
 CLS2 
 ENDPROC 
-//
 DEF PROC wellDone
 WAIT (1)
 PROC killEverything
@@ -186,7 +170,6 @@ FOR delay = 0 TO 300 CYCLE
 REPEAT 
 WIN = 0
 ENDPROC 
-//
 DEF PROC gameOver
 PROC killEverything
 text$ = "GAME OVER"
@@ -202,8 +185,6 @@ clearKeyboard
 WIN = 0
 lives = 0
 ENDPROC 
-//
-// pdf5 col1
 DEF PROC attract
 CLS 
 t1X = gWidth / 2 - getSpriteW (title1) / 2
@@ -231,8 +212,6 @@ WAIT (0.5)
 CLS 
 clearKeyboard 
 ENDPROC 
-//
-// pdf5 col2
 DEF PROC SetupMain
 HGR 
 hiScore = 0
@@ -258,8 +237,6 @@ DIM Shot(3)
 Shot(0) = newSprite (1)
 loadSprite ("Bullet.bmp", Shot(0), 0)
 setSpriteTrans (Shot(0), 255, 0, 255)
-//
-// pdf6 col1
 title1 = newSprite (1)
 loadSprite ("themagpi.bmp", title1, 0)
 setSpriteTrans (title1, 255, 0, 255)
@@ -271,12 +248,10 @@ boss = newSprite (1)
 loadSprite ("blackberry.bmp", boss, 0)
 setSpriteTrans (boss, 255, 0, 255)
 ENDPROC 
-//
 DEF PROC SetupGame
 IF  NOT WIN THEN 
   lives = 3
   Level = 1
-  // pdf6 col2
   score = 0
 ELSE 
   lives = lives + 1
@@ -328,7 +303,6 @@ UNTIL EnemyCount > EnemyMax CYCLE
   REPEAT 
   EnemyCount = EnemyCount + 8
 REPEAT 
-// pdf7 col1
 Fire = 0
 bossActive = 0
 Warning = 0
