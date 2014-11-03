@@ -259,16 +259,15 @@
             <ITEXT CH="Let's get started..."/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Installing OpenCV is quite straightforward.  Instructions for doing so are included at my robot web site: "/>
+            <ITEXT CH="Installing OpenCV has a couple of steps, and instructions for doing so are included at my robot web site: "/>
             <para PARENT="Body text"/>
             <ITEXT FCOLOR="Blue" CH="https://github.com/Guzunty/Pi/wiki/PiTeR-and-OpenCV"/>
             <ITEXT CH="."/>
             <para PARENT="Code"/>
-            <para PARENT="Body text"/>
             <ITEXT CH="To allow OpenCV to read images from the Raspberry Pi camera, we also need a utility called ‘uv4l’ (Userspace Video for Linux). Instructions for this are also found on the website."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Having installed these two, you can try out the programs from the web site.  The first demo shows how to capture images to make them available for further processing.  I used Python for finding and navigating between the symbols.   The programs are in Git."/>
+            <ITEXT CH="Having installed these two, you can try out the programs.  You may find it best to clone the whole Guzunty/Pi section of the link below, then explore the tree to study the programs.  I used Python for the programs. The first demo shows how to capture images to make them available for further processing.     The Git link is:"/>
             <para PARENT="Body text"/>
             <ITEXT FCOLOR="Blue" CH="https://github.com/Guzunty/Pi/tree/master/src/gz_piter/MagPi"/>
             <para PARENT="Code"/>
