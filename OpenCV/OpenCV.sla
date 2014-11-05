@@ -247,7 +247,7 @@
             <ITEXT CH="First of all he looks for a patch of green colour in his field of view. He drives towards the largest matching patch until he is close enough to recognise the symbol.  Once the symbol is recognised the robot follows the instruction and then looks for the next patch.  He repeats this until he reaches the symbol telling him he has reached his goal."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="To do this, the Piter uses the onboard Raspberry Pi and camera and processes the real time images using an awesome open source computer vision library called OpenCV."/>
+            <ITEXT CH="To do this, Piter uses the onboard Raspberry Pi and camera and processes the real time images using an awesome open source computer vision library called OpenCV."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="OpenCV runs on all major operating systems and provides all the tools needed to locate and decode the symbols.  I could have sent the camera images to a host computer and done the OpenCV processing there, returning the results to the Raspberry Pi.  However, that would mean the robot would not be truly autonomous."/>
@@ -510,7 +510,7 @@
             <ITEXT CH="      good_matches.append(match)"/>
             <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The matches we have left define how closely the ideal image resembles the actual piece of the robots view. We repeat the match process for each candidate symbol. The more matches we get, the more likely the symbol we’re looking at is the one in the ideal image."/>
+            <ITEXT CH="The matches we have left define how closely the ideal image resembles the actual piece of the robot's view. We repeat the match process for each candidate symbol. The more matches we get, the more likely the symbol we’re looking at is the one in the ideal image."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
@@ -535,7 +535,7 @@
             <para PARENT="Body text"/>
             <ITEXT CH="All the code for Piter is available at"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="https://github.com/Guzunty/Pi/tree/master/src/gz_piter."/>
+            <ITEXT CH="https://github.com/Guzunty/Pi/tree/master/src/gz_piter"/>
             <para PARENT="Code"/>
             <ITEXT CH="Remember, you don’t even need a robot to try it out."/>
             <para PARENT="Body text"/>
