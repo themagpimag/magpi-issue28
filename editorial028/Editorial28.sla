@@ -87,7 +87,7 @@
             <ITEXT CH="Expanding the I/O possibilities of the Raspberry Pi is often a first step of electronics projects.  This time, Dougie Lawson presents a review of the Arduberry board from Dexter Industries.  This little board provides an ideal microcontroller interface for more complicated electronics projects.  This month's hardware articles are rounded off by Karl-Ludwig Butte's third BitScope article, which includes examples of preamplifier circuits and associated test and measurement."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The Raspberry Pi provides the opportunity to run many different software applications.  Voice over IP (VoIP) allows telephone calls to be carried over an internet connection.  Walbarto Abad continues his mini-series by describing how to setup an Asterisk VoIP server."/>
+            <ITEXT CH="The Raspberry Pi provides the opportunity to run many different software applications.  Voice over IP (VoIP) allows telephone calls to be carried over an internet connection.  Walberto Abad continues his mini-series by describing how to setup an Asterisk VoIP server."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The second application article this month continues the discussion of git (distributed version control system).  Git was originally produced for Linux kernel development, but is now a mainstay of many different development projects and has been adopted by several schools too.  Alec Clews leads us through his second tutorial on the subject."/>
