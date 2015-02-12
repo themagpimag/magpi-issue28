@@ -25,11 +25,11 @@ def sendGmail(fromAddr, toAddr, username, password,
     print "Something went wrong when sending the email %s" % fromAddr
     print e
 
-fromAddr = 'emailthemagpi@gmail.com'
-toAddr  = 'whbqcd1@gmail.com'
+fromAddr = 'sending@gmail.com'
+toAddr  = 'toaddr@gmail.com'
 msg = 'This is a text message...'
 msgSubject = 'Test message'
-username = 'emailthemagpi@gmail.com'
+username = 'sending@gmail.com'
 password = '*********'
 
 sendGmail(fromAddr, toAddr, username, password, msg, msgSubject)
